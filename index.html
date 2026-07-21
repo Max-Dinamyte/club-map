@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover">
+<title>PolitiFoot — European Football Club Map</title>
+<link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;600;700&family=IBM+Plex+Mono:wght@400;500&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header class="topbar">
+  <div class="brand">
+    <svg class="logo-lockup" viewBox="0 0 216 34" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="PolitiFoot">
+      <defs>
+        <clipPath id="ballClip"><circle cx="17" cy="17" r="15"/></clipPath>
+      </defs>
+      <g clip-path="url(#ballClip)">
+        <rect x="2" y="2" width="16" height="30" fill="#ff1744"/>
+        <rect x="18" y="2" width="16" height="30" fill="#7b4b27"/>
+      </g>
+      <circle cx="17" cy="17" r="15" fill="none" stroke="#c9a54a" stroke-width="1.2"/>
+      <line x1="17" y1="3" x2="17" y2="31" stroke="#c9a54a" stroke-width="0.8"/>
+      <path d="M17 10.5 L21.7 14 L19.9 19.7 L14.1 19.7 L12.3 14 Z" fill="none" stroke="#f4f1ea" stroke-width="1.1"/>
+      <path d="M17 10.5 L17 5.2 M21.7 14 L26.5 11.3 M19.9 19.7 L22.7 26 M14.1 19.7 L11.3 26 M12.3 14 L7.5 11.3" stroke="#f4f1ea" stroke-width="0.9" fill="none"/>
+      <text x="42" y="23" font-family="'IBM Plex Sans', sans-serif" font-weight="700" font-size="21" letter-spacing="-0.3" fill="#eef1f5">Politi<tspan fill="#c9a54a">Foot</tspan></text>
+    </svg>
+    <p class="brand-sub">281 clubs · 15 leagues · 8 countries</p>
+  </div>
+
+  <div class="header-controls">
+    <div class="search-box">
+      <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+      <input type="text" id="searchInput" placeholder="Find a club or city…" autocomplete="off">
+    </div>
+
+    <div class="league-filter">
+      <select id="leagueSelect">
+        <option value="">All leagues</option>
+      </select>
+    </div>
+
+    <div class="unaffiliated-toggle" id="unaffToggleDesktop">
+      <span class="unaffiliated-label">Unaffiliated Clubs</span>
+      <button id="unaffShowBtn" class="toggle-btn toggle-btn-active" type="button" data-value="show">Show</button>
+      <button id="unaffHideBtn" class="toggle-btn" type="button" data-value="hide">Don't Show</button>
+    </div>
+
+    <button id="aboutBtn" class="header-btn" type="button">About</button>
+    <button id="suggestBtn" class="header-btn header-btn-accent" type="button">Suggest a correction</button>
+  </div>
+
+  <div id="unaffCallout" class="callout hidden">
+    <div class="callout-arrow"></div>
+    <p class="callout-text">This toggle controls whether clubs with no documented political affiliation are shown on the map — useful if you want to see only the clubs PolitiFoot has categorized.</p>
+    <button id="unaffCalloutClose" class="callout-btn" type="button">Got it</button>
+  </div>
+
+  <button id="mobileMenuBtn" class="icon-btn mobile-only" type="button" aria-label="Menu">
+    <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><line x1="4" y1="7" x2="20" y2="7"/><line x1="4" y1="12" x2="20" y2="12"/><line x1="4" y1="17" x2="20" y2="17"/></svg>
+  </button>
+</header>
+
+<div id="mobileMenu" class="mobile-menu hidden">
+  <div class="search-box">
+    <svg class="icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="7"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+    <input type="text" id="searchInputMobile" placeholder="Find a club or city…" autocomplete="off">
+  </div>
+  <div class="league-filter">
+    <select id="leagueSelectMobile">
+      <option value="">All leagues</option>
+    </select>
+  </div>
+  <div class="unaffiliated-toggle unaffiliated-toggle-mobile">
+    <span class="unaffiliated-label">Unaffiliated Clubs</span>
+    <button id="unaffShowBtnMobile" class="toggle-btn toggle-btn-active" type="button" data-value="show">Show</button>
+    <button id="unaffHideBtnMobile" class="toggle-btn" type="button" data-value="hide">Don't Show</button>
+  </div>
+  <p class="mobile-menu-hint">Controls whether clubs with no documented political affiliation appear on the map.</p>
+  <button id="legendToggleBtn" class="mobile-menu-row" type="button">Show legend</button>
+  <button id="aboutBtnMobile" class="mobile-menu-row" type="button">About PolitiFoot</button>
+  <button id="suggestBtnMobile" class="mobile-menu-row mobile-menu-row-accent" type="button">Suggest a correction</button>
+</div>
+
+<div class="legend" id="legendBar">
+  <span class="legend-item"><span class="legend-dot legend-square" style="background:#ffffff;border:1px solid #444;"></span>No known position</span>
+  <span class="legend-item"><span class="legend-dot" style="background:#7b4b27;"></span>Right-wing, current</span>
+  <span class="legend-item"><span class="legend-dot" style="background:repeating-linear-gradient(45deg, #7b4b27 0px, #7b4b27 2px, #ffffff 2px, #ffffff 4px);"></span>Right-wing, historical</span>
+  <span class="legend-item"><span class="legend-dot" style="background:#ff1744;"></span>Left-wing, current</span>
+  <span class="legend-item"><span class="legend-dot" style="background:repeating-linear-gradient(45deg, #ff1744 0px, #ff1744 2px, #ffffff 2px, #ffffff 4px);"></span>Left-wing, historical</span>
+</div>
+
+<main>
+  <div id="map"></div>
+</main>
+
+<div id="panelBackdrop" class="panel-backdrop hidden"></div>
+
+<aside id="infoPanel" class="info-panel hidden">
+  <div class="sheet-handle"></div>
+  <div class="panel-header-row">
+    <div class="panel-header" id="panelHeaderTop"></div>
+    <button id="closePanel" class="close-btn" aria-label="Close">&times;</button>
+  </div>
+  <div class="panel-scroll" id="panelContent"></div>
+</aside>
+
+<footer class="statusbar">
+  <span id="clubCount">Loading clubs…</span>
+  <span class="dim">© OpenStreetMap contributors © CARTO</span>
+</footer>
+
+<div id="aboutModal" class="modal-overlay hidden">
+  <div class="modal-box">
+    <button id="aboutModalClose" class="close-btn" aria-label="Close">&times;</button>
+    <h2 class="modal-title">About PolitiFoot</h2>
+    <p class="modal-text">PolitiFoot is an attempt to objectively (i.e., non-normatively) categorize European football clubs based on the political ideology of their fanbases, specifically, major supporter groups. While many supporter groups are directly engaged in politics, the modern purchasing of clubs to be run as businesses has led to many club supporter groups no longer affiliating with a specific ideology. Because of this, PolitiFoot differentiates between clubs with fanbases that are currently politically affiliated and those that have been historically politically affiliated.</p>
+    <p class="modal-text">The database underpinning this project should not be seen as complete, but rather it is a living database, changing and being updated with new information. As such, we encourage users to make suggestions. If you think a club has been erroneously categorized, please click the suggestion button, and explain what you believe to be erroneous.</p>
+    <p class="modal-text modal-note">Note: Suggestions should be accompanied by citations linking to reputable sources (e.g., well-known newspapers, magazines and media outlets; academic researchers, etc.)</p>
+    <button id="aboutModalDismiss" class="modal-btn" type="button">Got it</button>
+  </div>
+</div>
+
+<div id="suggestModal" class="modal-overlay hidden">
+  <div class="modal-box">
+    <button id="suggestModalClose" class="close-btn" aria-label="Close">&times;</button>
+    <h2 class="modal-title">Suggest a correction</h2>
+    <p class="modal-text">Think a club is miscategorized, or missing a supporter group entirely? Let us know. Please include a source for any claim — a newspaper, magazine, established media outlet, or academic research — so it can be verified.</p>
+    <label class="modal-label" for="suggestClub">Club (optional)</label>
+    <input type="text" id="suggestClub" class="modal-input" placeholder="e.g. Real Betis">
+    <label class="modal-label" for="suggestText">What should change, and why</label>
+    <textarea id="suggestText" class="modal-textarea" rows="5" placeholder="Describe what you believe is erroneous and include a source link…"></textarea>
+    <button id="suggestSend" class="modal-btn" type="button">Open email draft</button>
+    <p class="modal-note modal-note-small">This opens your email client with a pre-filled message — nothing is sent automatically.</p>
+  </div>
+</div>
+
+<script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+<script src="app.js"></script>
+</body>
+</html>
