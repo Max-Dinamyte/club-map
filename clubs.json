@@ -1,0 +1,5005 @@
+[
+ {
+  "id": "england-wales-premier-league-arsenal",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Arsenal",
+  "city": "London",
+  "lat": 51.5549,
+  "lon": -0.1084,
+  "record": "26W-7D-5L, 85 pts — Champions, Premier League 2025-26",
+  "initials": "A",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-manchester-city",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Manchester City",
+  "city": "Manchester",
+  "lat": 53.4831,
+  "lon": -2.2004,
+  "record": "23W-9D-6L, 78 pts — Premier League 2025-26",
+  "initials": "MC",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-manchester-united",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Manchester United",
+  "city": "Manchester",
+  "lat": 53.4631,
+  "lon": -2.2913,
+  "record": "20W-11D-7L, 71 pts — Premier League 2025-26",
+  "initials": "MU",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-liverpool",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Liverpool",
+  "city": "Liverpool",
+  "lat": 53.4308,
+  "lon": -2.9608,
+  "record": "17W-9D-12L, 60 pts — Premier League 2025-26",
+  "initials": "L",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-chelsea",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Chelsea",
+  "city": "London",
+  "lat": 51.4816,
+  "lon": -0.1909,
+  "record": "14W-10D-14L, 52 pts — Premier League 2025-26",
+  "initials": "C",
+  "color": "#e0263a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Headhunters",
+    "note": "The Headhunters were closely linked to Combat 18 and the National Front in the 1980s. While Chelsea has been commercialized for the most part, the Headhunters are still a right-wing organization. As recently as 2015 they were recorded in Paris chanting that they are racist and like it that way.",
+    "sources": [
+     "https://www.rte.ie/news/special-reports/2015/0218/681096-chelsea-hooligan-football/",
+     "https://www.vice.com/en/article/chelseas-racist-hooligan-diaspora-091/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "england-wales-premier-league-tottenham-hotspur",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Tottenham Hotspur",
+  "city": "London",
+  "lat": 51.6043,
+  "lon": -0.0664,
+  "record": "10W-11D-17L, 41 pts — Premier League 2025-26",
+  "initials": "TH",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-newcastle-united",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Newcastle United",
+  "city": "Newcastle upon Tyne",
+  "lat": 54.9756,
+  "lon": -1.6217,
+  "record": "14W-7D-17L, 49 pts — Premier League 2025-26",
+  "initials": "NU",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-aston-villa",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Aston Villa",
+  "city": "Birmingham",
+  "lat": 52.5092,
+  "lon": -1.8848,
+  "record": "19W-8D-11L, 65 pts — Premier League 2025-26",
+  "initials": "AV",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-brighton-&-hove-albion",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Brighton & Hove Albion",
+  "city": "Brighton",
+  "lat": 50.8617,
+  "lon": -0.0837,
+  "record": "14W-11D-13L, 53 pts — Premier League 2025-26",
+  "initials": "B&H",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-everton",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Everton",
+  "city": "Liverpool",
+  "lat": 53.4388,
+  "lon": -2.9663,
+  "record": "13W-10D-15L, 49 pts — Premier League 2025-26",
+  "initials": "E",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-crystal-palace",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Crystal Palace",
+  "city": "London",
+  "lat": 51.3983,
+  "lon": -0.0855,
+  "record": "11W-12D-15L, 45 pts — Premier League 2025-26",
+  "initials": "CP",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-fulham",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Fulham",
+  "city": "London",
+  "lat": 51.4749,
+  "lon": -0.2217,
+  "record": "15W-7D-16L, 52 pts — Premier League 2025-26",
+  "initials": "F",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-brentford",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Brentford",
+  "city": "London",
+  "lat": 51.4907,
+  "lon": -0.2887,
+  "record": "14W-11D-13L, 53 pts — Premier League 2025-26",
+  "initials": "B",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-nottingham-forest",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Nottingham Forest",
+  "city": "Nottingham",
+  "lat": 52.94,
+  "lon": -1.1328,
+  "record": "11W-11D-16L, 44 pts — Premier League 2025-26",
+  "initials": "NF",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-afc-bournemouth",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "AFC Bournemouth",
+  "city": "Bournemouth",
+  "lat": 50.7352,
+  "lon": -1.8384,
+  "record": "13W-18D-7L, 57 pts — Premier League 2025-26",
+  "initials": "B",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-leeds-united",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Leeds United",
+  "city": "Leeds",
+  "lat": 53.7778,
+  "lon": -1.5722,
+  "record": "11W-14D-13L, 47 pts — Premier League 2025-26 (promoted from Championship)",
+  "initials": "LU",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Service Crew",
+    "note": "The Service Crew was very active in the 1970s and 1980s and was virulently far-right, going so far as selling Mein Kampf outside matches. They were heavily affiliated with the National Front. In the 1980s there was a concerted effort to push back again the far-right ideology, which is why Leeds United is listed as historically right-wing but not actively.",
+    "sources": [
+     "https://www.planetfootball.com/quick-reads/five-times-fans-stood-up-to-racism-williams-leeds-rayo-vallecano-more",
+     "https://theblizzard.co.uk/leeds-utd-v-the-national-front/featured/",
+     "https://www.planetfootball.com/in-depth/leeds-united-racism-fanzine-forced-change-elland-road"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "england-wales-premier-league-sunderland",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Sunderland",
+  "city": "Sunderland",
+  "lat": 54.9144,
+  "lon": -1.3883,
+  "record": "14W-12D-12L, 54 pts — Premier League 2025-26 (promoted via play-offs)",
+  "initials": "S",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-coventry-city",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Coventry City",
+  "city": "Coventry",
+  "lat": 52.4483,
+  "lon": -1.4954,
+  "record": "28W-11D-7L, 95 pts — Champions, EFL Championship 2025-26 (promoted)",
+  "initials": "CC",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-ipswich-town",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Ipswich Town",
+  "city": "Ipswich",
+  "lat": 52.0552,
+  "lon": 1.1447,
+  "record": "23W-15D-8L, 84 pts — EFL Championship 2025-26 (promoted)",
+  "initials": "IT",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-premier-league-hull-city",
+  "country": "England/Wales",
+  "league": "Premier League",
+  "name": "Hull City",
+  "city": "Hull",
+  "lat": 53.7465,
+  "lon": -0.3673,
+  "record": "21W-10D-15L, 73 pts — EFL Championship 2025-26, won promotion play-offs",
+  "initials": "HC",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-bolton-wanderers",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Bolton Wanderers",
+  "city": "Bolton",
+  "lat": 53.5307,
+  "lon": -2.535,
+  "record": "19W-18D-9L, 75 pts — League One 2025-26, won promotion play-offs",
+  "initials": "BW",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-swansea-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Swansea City",
+  "city": "Swansea",
+  "lat": 51.6422,
+  "lon": -3.935,
+  "record": "18W-10D-18L, 64 pts — Championship 2025-26",
+  "initials": "SC",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-bristol-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Bristol City",
+  "city": "Bristol",
+  "lat": 51.44,
+  "lon": -2.6204,
+  "record": "17W-11D-18L, 62 pts — Championship 2025-26",
+  "initials": "BC",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-derby-county",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Derby County",
+  "city": "Derby",
+  "lat": 52.9148,
+  "lon": -1.4474,
+  "record": "20W-9D-17L, 69 pts — Championship 2025-26",
+  "initials": "DC",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-burnley",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Burnley",
+  "city": "Burnley",
+  "lat": 53.7891,
+  "lon": -2.2298,
+  "record": "4W-10D-24L, 22 pts — Relegated from Premier League 2025-26",
+  "initials": "B",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-southampton",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Southampton",
+  "city": "Southampton",
+  "lat": 50.9058,
+  "lon": -1.391,
+  "record": "22W-14D-10L, 80 pts — Championship 2025-26",
+  "initials": "S",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-cardiff-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Cardiff City",
+  "city": "Cardiff",
+  "lat": 51.4727,
+  "lon": -3.2033,
+  "record": "27W-10D-9L, 91 pts — League One 2025-26 (promoted)",
+  "initials": "CC",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-west-bromwich-albion",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "West Bromwich Albion",
+  "city": "West Bromwich",
+  "lat": 52.5091,
+  "lon": -1.964,
+  "record": "13W-14D-19L, 51 pts — Championship 2025-26",
+  "initials": "WBA",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-charlton-athletic",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Charlton Athletic",
+  "city": "London",
+  "lat": 51.486,
+  "lon": 0.0364,
+  "record": "13W-14D-19L, 53 pts — Championship 2025-26",
+  "initials": "CA",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-wrexham",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Wrexham",
+  "city": "Wrexham",
+  "lat": 53.0435,
+  "lon": -2.9925,
+  "record": "19W-14D-13L, 71 pts — Championship 2025-26",
+  "initials": "W",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-middlesbrough",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Middlesbrough",
+  "city": "Middlesbrough",
+  "lat": 54.5782,
+  "lon": -1.2169,
+  "record": "22W-14D-10L, 80 pts — Championship 2025-26, lost promotion play-off final",
+  "initials": "M",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-west-ham-united",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "West Ham United",
+  "city": "London",
+  "lat": 51.5386,
+  "lon": -0.0166,
+  "record": "10W-9D-19L, 39 pts — Relegated from Premier League 2025-26",
+  "initials": "WHU",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-norwich-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Norwich City",
+  "city": "Norwich",
+  "lat": 52.6221,
+  "lon": 1.3082,
+  "record": "19W-8D-19L, 65 pts — Championship 2025-26",
+  "initials": "NC",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-blackburn-rovers",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Blackburn Rovers",
+  "city": "Blackburn",
+  "lat": 53.7285,
+  "lon": -2.4894,
+  "record": "13W-13D-20L, 52 pts — Championship 2025-26",
+  "initials": "BR",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-portsmouth",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Portsmouth",
+  "city": "Portsmouth",
+  "lat": 50.7963,
+  "lon": -1.064,
+  "record": "14W-13D-19L, 55 pts — Championship 2025-26",
+  "initials": "P",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-preston-north-end",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Preston North End",
+  "city": "Preston",
+  "lat": 53.7727,
+  "lon": -2.6883,
+  "record": "15W-15D-16L, 60 pts — Championship 2025-26",
+  "initials": "PNE",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-sheffield-united",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Sheffield United",
+  "city": "Sheffield",
+  "lat": 53.3703,
+  "lon": -1.4709,
+  "record": "18W-6D-22L, 60 pts — Championship 2025-26",
+  "initials": "SU",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-millwall",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Millwall",
+  "city": "London",
+  "lat": 51.4863,
+  "lon": -0.0505,
+  "record": "24W-11D-11L, 83 pts — Championship 2025-26",
+  "initials": "M",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Bushwackers/Beserkers",
+    "note": "The Bushwackers were a notorious far-right supporters group in the 1970s and 1980s. Affiliated with the National Front, they are much smaller than they were, but not defunct. The Berserkers are more prominent than the Bushwackers today, although probably not as prominent as the Bushwackers were in the 1970s and 1980s. The Berserkers, however, have been tied to substantial neo-Nazi and anti-Semitic activities.",
+    "sources": [
+     "https://www.jewishnews.co.uk/millwall-hooligans-attention-jews-poster-removed-and-reported-to-police/",
+     "https://repository.mdx.ac.uk/download/04c957f5c1f03604f0f5b66d22a5acb086f581b69c7cc94d74b5b0b87ca68026/224619/JFS_6.3_2_art_Bleakley-REVISED.pdf",
+     "https://www.vice.com/en/article/what-millwalls-black-fans-think-about-the-clubs-racist-image/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "england-wales-efl-championship-stoke-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Stoke City",
+  "city": "Stoke-on-Trent",
+  "lat": 52.9884,
+  "lon": -2.1752,
+  "record": "15W-10D-21L, 55 pts — Championship 2025-26",
+  "initials": "SC",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-lincoln-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Lincoln City",
+  "city": "Lincoln",
+  "lat": 53.2358,
+  "lon": -0.5406,
+  "record": "31W-10D-5L, 103 pts — Champions, League One 2025-26 (promoted)",
+  "initials": "LC",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-watford",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Watford",
+  "city": "Watford",
+  "lat": 51.6499,
+  "lon": -0.4013,
+  "record": "14W-15D-17L, 57 pts — Championship 2025-26",
+  "initials": "W",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-birmingham-city",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Birmingham City",
+  "city": "Birmingham",
+  "lat": 52.4753,
+  "lon": -1.8683,
+  "record": "17W-13D-16L, 64 pts — Championship 2025-26",
+  "initials": "BC",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-wolverhampton-wanderers",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Wolverhampton Wanderers",
+  "city": "Wolverhampton",
+  "lat": 52.59,
+  "lon": -2.1304,
+  "record": "3W-11D-24L, 20 pts — Relegated from Premier League 2025-26",
+  "initials": "WW",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "england-wales-efl-championship-queens-park-rangers",
+  "country": "England/Wales",
+  "league": "EFL Championship",
+  "name": "Queens Park Rangers",
+  "city": "London",
+  "lat": 51.5094,
+  "lon": -0.2323,
+  "record": "16W-10D-20L, 58 pts — Championship 2025-26",
+  "initials": "QPR",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-aberdeen",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Aberdeen",
+  "city": "Aberdeen",
+  "lat": 57.1595,
+  "lon": -2.0876,
+  "record": "11W-7D-20L, 40 pts — Premiership 2025-26",
+  "initials": "A",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-celtic",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Celtic",
+  "city": "Glasgow",
+  "lat": 55.8497,
+  "lon": -4.2058,
+  "record": "26W-4D-8L, 82 pts — Champions, Premiership 2025-26",
+  "initials": "C",
+  "color": "#8a4fdb",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Green Brigade",
+    "note": "Green Brigade is prominently associated with Irish Republicanism and left-wing causes.",
+    "sources": [
+     "https://feeds.bbci.co.uk/sport/0/football/25373147",
+     "https://www.aljazeera.com/sports/2023/11/23/uefa-fines-celtic-over-palestine-support-israel-gaza-war-fans-defy-ban-pledge-support",
+     "https://www.vice.com/en/article/green-brigade-palestine-flags-raising-money/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "scotland-scottish-premiership-dundee",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Dundee",
+  "city": "Dundee",
+  "lat": 56.477,
+  "lon": -2.9707,
+  "record": "11W-9D-18L, 42 pts — Premiership 2025-26",
+  "initials": "D",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-dundee-united",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Dundee United",
+  "city": "Dundee",
+  "lat": 56.4917,
+  "lon": -2.9707,
+  "record": "10W-15D-13L, 45 pts — Premiership 2025-26",
+  "initials": "DU",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-falkirk",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Falkirk",
+  "city": "Falkirk",
+  "lat": 56.0022,
+  "lon": -3.7726,
+  "record": "14W-7D-17L, 49 pts — Premiership 2025-26",
+  "initials": "F",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-heart-of-midlothian",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Heart of Midlothian",
+  "city": "Edinburgh",
+  "lat": 55.9422,
+  "lon": -3.232,
+  "record": "24W-8D-6L, 80 pts — Premiership 2025-26",
+  "initials": "HM",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-hibernian",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Hibernian",
+  "city": "Edinburgh",
+  "lat": 55.9614,
+  "lon": -3.1658,
+  "record": "15W-12D-11L, 57 pts — Premiership 2025-26",
+  "initials": "H",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-kilmarnock",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Kilmarnock",
+  "city": "Kilmarnock",
+  "lat": 55.6159,
+  "lon": -4.4975,
+  "record": "10W-10D-18L, 40 pts — Premiership 2025-26",
+  "initials": "K",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-motherwell",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Motherwell",
+  "city": "Motherwell",
+  "lat": 55.7822,
+  "lon": -3.993,
+  "record": "16W-13D-9L, 61 pts — Premiership 2025-26",
+  "initials": "M",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-rangers",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "Rangers",
+  "city": "Glasgow",
+  "lat": 55.8531,
+  "lon": -4.3092,
+  "record": "20W-12D-6L, 72 pts — Premiership 2025-26",
+  "initials": "R",
+  "color": "#c94f8a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Union Bears",
+    "note": "Union Bears are a strongly Loyalist organization focused on Northern Ireland remaining part of the United Kingdom. They tend towards the right do to this.",
+    "sources": [
+     "https://feeds.bbci.co.uk/sport/football/articles/czx7l4zngr3o",
+     "https://www.skysports.com/football/news/11788/13331915/rangers-charged-by-uefa-over-anti-woke-banner-displayed-by-supporters-at-europa-league-tie-against-fenerbahce",
+     "https://footballgroundguide.com/news/rangers-ultras-snp-banners"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "scotland-scottish-premiership-st-johnstone",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "St Johnstone",
+  "city": "Perth",
+  "lat": 56.4096,
+  "lon": -3.4468,
+  "record": "22W-11D-3L, 77 pts — Champions, Championship 2025-26 (promoted)",
+  "initials": "J",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "scotland-scottish-premiership-st-mirren",
+  "country": "Scotland",
+  "league": "Scottish Premiership",
+  "name": "St Mirren",
+  "city": "Paisley",
+  "lat": 55.8462,
+  "lon": -4.4322,
+  "record": "8W-10D-20L, 34 pts — Premiership 2025-26",
+  "initials": "M",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-bayern-munich",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Bayern Munich",
+  "city": "Munich",
+  "lat": 48.2188,
+  "lon": 11.6247,
+  "record": "28W-5D-1L, 89 pts — Champions, Bundesliga 2025-26",
+  "initials": "BM",
+  "color": "#1f9e6b",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Schickeria Munchen",
+    "note": "Classified as left-wing because it has taken a strong position celebrating a former Jewish club president whose family was murdered by the Nazis. This indicates a rejection of Nazism and therefore, neo-Nazism.",
+    "sources": [
+     "https://www.jta.org/2022/07/13/sports/how-a-holocaust-survivor-helped-make-bayern-munich-a-soccer-powerhouse",
+     "https://schickeria-muenchen.org/pico/blog/150_News",
+     "https://medium.com/@ftamsut/unwaveringly-left-wing-meet-bayern-munichs-biggest-ultra-group-0349f90eab0c"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-bayer-leverkusen",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Bayer Leverkusen",
+  "city": "Leverkusen",
+  "lat": 51.0382,
+  "lon": 7.0022,
+  "record": "17W-8D-9L, 59 pts — Bundesliga 2025-26",
+  "initials": "BL",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-eintracht-frankfurt",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Eintracht Frankfurt",
+  "city": "Frankfurt",
+  "lat": 50.0686,
+  "lon": 8.6455,
+  "record": "11W-11D-12L, 44 pts — Bundesliga 2025-26",
+  "initials": "EF",
+  "color": "#e0263a",
+  "political_category": "Split",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultras Frankfurt '97",
+    "note": "Ultras Frankfurt 97 have multiple groups within. Some of these, such as Droogs 99 are decidedly anti-racism. However, there are some groups within Ultras Frankfurt 97 that have been known to give Nazi salutes.",
+    "sources": [
+     "https://medium.com/@ftamsut/eintracht-frankfurt-the-story-of-a-choreo-about-a-city-a-club-and-its-ultras-f0f55c0ca9e6",
+     "https://millernton.de/2025/01/07/eintracht-frankfurt-verein-und-fanszene/",
+     "https://www.espn.com/soccer/story/_/id/37631955/uefa-charges-eintracht-frankfurt-racist-behaviour-marseille-crowd-disturbances"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-borussia-dortmund",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Borussia Dortmund",
+  "city": "Dortmund",
+  "lat": 51.4926,
+  "lon": 7.4517,
+  "record": "22W-7D-5L, 73 pts — Bundesliga 2025-26",
+  "initials": "BD",
+  "color": "#1f9e6b",
+  "political_category": "Split",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "The Unity",
+    "note": "The Unity is clearly left-leaning having taken a clear anti-Nazi stance. They have also been involved in the settling of refugees in the Dortmund area.",
+    "sources": [
+     "https://medium.com/@ftamsut/presenting-borussia-dortmund-ultra-group-the-unity-who-they-are-and-what-they-stand-for-d9ab63365632",
+     "https://www.nordstadtblogger.de/die-funktion-des-fussballs-fuer-rechtsextreme-das-borussia-stadion-als-rechte-agitationsflaeche/",
+     "https://www.vice.com/de/article/erneute-auseinandersetzungen-zwischen-dortmunder-ultras-und-borussenfront-654/"
+    ]
+   },
+   {
+    "name": "Borussenfront",
+    "note": "Borussenfront is a far-right organization that is particularly violent. They have taken a stand against anti-racism and anti-right-wing organizations, demanding that signs that are anti-racism and/or contrary to right-wing ideas be banned from the stadium.",
+    "sources": [
+     "https://www.vice.com/de/article/erneute-auseinandersetzungen-zwischen-dortmunder-ultras-und-borussenfront-654/",
+     "https://www.nordstadtblogger.de/die-funktion-des-fussballs-fuer-rechtsextreme-das-borussia-stadion-als-rechte-agitationsflaeche/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-sc-freiburg",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "SC Freiburg",
+  "city": "Freiburg",
+  "lat": 47.9932,
+  "lon": 7.8956,
+  "record": "13W-8D-13L, 47 pts — Bundesliga 2025-26",
+  "initials": "F",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-rb-leipzig",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "RB Leipzig",
+  "city": "Leipzig",
+  "lat": 51.3458,
+  "lon": 12.3483,
+  "record": "20W-5D-9L, 65 pts — Bundesliga 2025-26",
+  "initials": "RL",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-vfb-stuttgart",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "VfB Stuttgart",
+  "city": "Stuttgart",
+  "lat": 48.7925,
+  "lon": 9.232,
+  "record": "18W-8D-8L, 62 pts — Bundesliga 2025-26",
+  "initials": "S",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-tsg-hoffenheim",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "TSG Hoffenheim",
+  "city": "Sinsheim",
+  "lat": 49.2381,
+  "lon": 8.8888,
+  "record": "18W-7D-9L, 61 pts — Bundesliga 2025-26",
+  "initials": "H",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-union-berlin",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Union Berlin",
+  "city": "Berlin",
+  "lat": 52.4571,
+  "lon": 13.5678,
+  "record": "10W-9D-15L, 39 pts — Bundesliga 2025-26",
+  "initials": "UB",
+  "color": "#3fb8c9",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Wuhlesyndikat",
+    "note": "Wuhlesyndikat, while not hardcore leftists, and not necessarily engaging in violence, espouse a decidedly anti-capitalist ideology, particularly as it concerns capitalism in football.",
+    "sources": [
+     "https://beyondthe90.substack.com/p/die-eisernen-the-hipster-club-that",
+     "https://www.welt.de/regionales/berlin/article198528589/Union-Praesident-unterstuetzt-Fans-Wuhlesyndikat-sieht-Chance.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-werder-bremen",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Werder Bremen",
+  "city": "Bremen",
+  "lat": 53.0664,
+  "lon": 8.8321,
+  "record": "8W-8D-18L, 32 pts — Bundesliga 2025-26",
+  "initials": "WB",
+  "color": "#5c6bc0",
+  "political_category": "Split",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Infamous Youth / Sherwood Youth",
+    "note": "Infamous Youth was founded in order to push back against the right-wing ideology of already existing Werder Bremen supporter groups.",
+    "sources": [
+     "https://infamousyouth.org/vortrag-mischszenen-am-rechten-rand/",
+     "https://taz.de/Ultras-in-Bremen/!5418560/"
+    ]
+   },
+   {
+    "name": "Endstufe-Crew Bremen",
+    "note": "Members of Endstufe-Crew Bremen partook in a neo-Nazi gathering HoGeSa in 2014",
+    "sources": [
+     "https://antifapinneberg.noblogs.org/post/2014/10/30/hogesa-von-koeln-nach-hamburg/",
+     "https://antifa-bremen.org/was-ging-ab/2014/hohl-gewalttaetige-sammelbewegung/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-borussia-mönchengladbach",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Borussia Mönchengladbach",
+  "city": "Mönchengladbach",
+  "lat": 51.1746,
+  "lon": 6.3859,
+  "record": "9W-11D-14L, 38 pts — Bundesliga 2025-26",
+  "initials": "BM",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Sottocultura",
+    "note": "A photograph was taken in which supporters from Sottocultura were flying a flag with the SS Totenkampf. The leadership of Sottocultura indicated that they were unaware of this flag being flown.",
+    "sources": [
+     "https://www.wz.de/sport/fussball/borussia-moenchengladbach/ss-totenkopf-auf-foto-mit-gladbacher-ultras-zu-sehen_aid-25453585",
+     "https://www.90min.de/posts/6567092-gladbacher-ultras-gehen-auf-den-verein-zu-und-positionieren-sich-gegen-rechts"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-1.-fc-köln",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "1. FC Köln",
+  "city": "Cologne",
+  "lat": 50.9339,
+  "lon": 6.8756,
+  "record": "7W-11D-16L, 32 pts — Bundesliga 2025-26",
+  "initials": "1K",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-hamburger-sv",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Hamburger SV",
+  "city": "Hamburg",
+  "lat": 53.5872,
+  "lon": 9.8985,
+  "record": "9W-11D-14L, 38 pts — Bundesliga 2025-26",
+  "initials": "H",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-fc-augsburg",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "FC Augsburg",
+  "city": "Augsburg",
+  "lat": 48.3231,
+  "lon": 10.8858,
+  "record": "12W-7D-15L, 43 pts — Bundesliga 2025-26",
+  "initials": "A",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-mainz-05",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Mainz 05",
+  "city": "Mainz",
+  "lat": 49.9836,
+  "lon": 8.2249,
+  "record": "10W-10D-14L, 40 pts — Bundesliga 2025-26",
+  "initials": "M0",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-schalke-04",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "Schalke 04",
+  "city": "Gelsenkirchen",
+  "lat": 51.5547,
+  "lon": 7.0678,
+  "record": "21W-7D-6L, 70 pts — Champions, 2. Bundesliga 2025-26 (promoted)",
+  "initials": "S0",
+  "color": "#c94f8a",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultras Gelsenkirchen / Marler Jungs",
+    "note": "Members of this organization have engaged in anti-Nazi activity, going so far as to block a demonstration from a far-right extremist party known as \"Die Rechte.\"",
+    "sources": [
+     "https://archiv.faszination-fankurve.de/index.php?head=Schalke-Ultras-verhindern-Nazi-Kundgebung&folder=sites&site=news_detail&news_id=9677",
+     "https://www.faszination-fankurve.de/index.php?head=Verpisst-Euch-Ultras-mit-klarer-Botschaft-an-quotDie-Rechtequot&folder=sites&site=news_detail&news_id=9748"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-bundesliga-sv-elversberg",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "SV Elversberg",
+  "city": "Spiesen-Elversberg",
+  "lat": 49.2856,
+  "lon": 7.1264,
+  "record": "18W-8D-8L, 62 pts — 2. Bundesliga 2025-26 (promoted)",
+  "initials": "E",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-bundesliga-sc-paderborn",
+  "country": "Germany",
+  "league": "Bundesliga",
+  "name": "SC Paderborn",
+  "city": "Paderborn",
+  "lat": 51.7286,
+  "lon": 8.7847,
+  "record": "18W-8D-8L, 62 pts — 2. Bundesliga 2025-26, won promotion play-off",
+  "initials": "P",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-hertha-bsc",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Hertha BSC",
+  "city": "Berlin",
+  "lat": 52.5147,
+  "lon": 13.2394,
+  "record": "14W-9D-11L, 51 pts — 2. Bundesliga 2025-26",
+  "initials": "HB",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Harlekins Berlin '98",
+    "note": "Harlekins Berlin '98 displayed a homophobic banner at a game against Cologne, apparently mocking Cologne's sizable LGBTQ+ population.",
+    "sources": [
+     "https://rp-online.de/sport/fussball/bundesliga/hertha-bsc-harlekins-berlin-zeigen-homophobes-banner_aid-18214939"
+    ]
+   },
+   {
+    "name": "Hertha Frosche",
+    "note": "Hertha-Frosche is an historical supporter group for Hertha BSC, however, it was populated by skinheads and neo-Nazis. Because of it's extremely far-right membership, it is included.",
+    "sources": [
+     "https://taz.de/Hertha-Froesche-als-Nazi-Kroeten/!1809129/",
+     "https://www.antifainfoblatt.de/artikel/rechte-westberliner-fans-bei-%E2%80%9Ehertha-endsieg%E2%80%9C",
+     "https://antifa.vvn-bda.de/2013/09/05/fussball-und-nazis/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-2.-bundesliga-arminia-bielefeld",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Arminia Bielefeld",
+  "city": "Bielefeld",
+  "lat": 52.0287,
+  "lon": 8.5305,
+  "record": "10W-9D-15L, 39 pts — 2. Bundesliga 2025-26",
+  "initials": "AB",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-vfl-bochum",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "VfL Bochum",
+  "city": "Bochum",
+  "lat": 51.4906,
+  "lon": 7.2367,
+  "record": "11W-11D-12L, 44 pts — 2. Bundesliga 2025-26",
+  "initials": "B",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-eintracht-braunschweig",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Eintracht Braunschweig",
+  "city": "Braunschweig",
+  "lat": 52.2569,
+  "lon": 10.5453,
+  "record": "10W-7D-17L, 37 pts — 2. Bundesliga 2025-26",
+  "initials": "EB",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-energie-cottbus",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Energie Cottbus",
+  "city": "Cottbus",
+  "lat": 51.7434,
+  "lon": 14.3308,
+  "record": "21W-9D-8L, 72 pts — 3. Liga 2025-26 (promoted)",
+  "initials": "EC",
+  "color": "#e0263a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Inferno Cottbus",
+    "note": "Inferno Cottbus is a well known far-right organization. Members of the group are noted for having neo-Nazi tattoos, KKK style hoods, and have espoused anti-Semitic views.",
+    "sources": [
+     "https://www.dw.com/en/not-a-neo-nazi-club-energie-cottbus-supporters-battling-right-wing-image/a-43979910",
+     "https://www.tagesspiegel.de/berlin/rechtsextreme-fans-aus-cottbus-sind-europaweit-vernetzt-4654015.html",
+     "https://www.amnesty.de/informieren/amnesty-journal/deutschland-genervt-von-den-vorwuerfen"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-2.-bundesliga-darmstadt-98",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Darmstadt 98",
+  "city": "Darmstadt",
+  "lat": 49.8654,
+  "lon": 8.6572,
+  "record": "13W-13D-8L, 52 pts — 2. Bundesliga 2025-26",
+  "initials": "D9",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-dynamo-dresden",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Dynamo Dresden",
+  "city": "Dresden",
+  "lat": 51.0402,
+  "lon": 13.7519,
+  "record": "11W-8D-15L, 41 pts — 2. Bundesliga 2025-26",
+  "initials": "DD",
+  "color": "#c94f8a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultras Dynamo",
+    "note": "Ultras Dynamo have a reputation for far-right activity. They are known for xenophobia and racist chants, and are even connected to leaders of the National Democratic Party of Germany.",
+    "sources": [
+     "http://www.belltower.news/artikel/die-hooligan-armee-des-dynamo-dresden-11893",
+     "https://www.vice.com/de/article/43embq/ultras-hooligans-dynamo-dresden-hate-racism",
+     "https://antifainfoblatt.de/aib71/kategorie-ns-die-neonazi-und-hooliganszene-sachsen"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-2.-bundesliga-greuther-fürth",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Greuther Fürth",
+  "city": "Fürth",
+  "lat": 49.4726,
+  "lon": 10.9895,
+  "record": "10W-7D-17L, 37 pts — 2. Bundesliga 2025-26",
+  "initials": "GF",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-hannover-96",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Hannover 96",
+  "city": "Hannover",
+  "lat": 52.3591,
+  "lon": 9.7318,
+  "record": "16W-12D-6L, 60 pts — 2. Bundesliga 2025-26",
+  "initials": "H9",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-1.-fc-heidenheim",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "1. FC Heidenheim",
+  "city": "Heidenheim",
+  "lat": 48.6752,
+  "lon": 10.1637,
+  "record": "6W-8D-20L, 26 pts — Relegated from Bundesliga 2025-26",
+  "initials": "1H",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-1.-fc-kaiserslautern",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "1. FC Kaiserslautern",
+  "city": "Kaiserslautern",
+  "lat": 49.4324,
+  "lon": 7.7758,
+  "record": "16W-4D-14L, 52 pts — 2. Bundesliga 2025-26",
+  "initials": "1K",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-karlsruher-sc",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Karlsruher SC",
+  "city": "Karlsruhe",
+  "lat": 49.0231,
+  "lon": 8.4266,
+  "record": "12W-8D-14L, 44 pts — 2. Bundesliga 2025-26",
+  "initials": "K",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-holstein-kiel",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "Holstein Kiel",
+  "city": "Kiel",
+  "lat": 54.3385,
+  "lon": 10.1273,
+  "record": "11W-8D-15L, 41 pts — 2. Bundesliga 2025-26",
+  "initials": "HK",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-1.-fc-magdeburg",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "1. FC Magdeburg",
+  "city": "Magdeburg",
+  "lat": 52.1372,
+  "lon": 11.6317,
+  "record": "12W-3D-19L, 39 pts — 2. Bundesliga 2025-26",
+  "initials": "1M",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Blue Generation (Block U)",
+    "note": "Block U flew a neo-Nazi banner during a match Karlsruhr SC in 2024. They also chanted neo-Nazi slogans.",
+    "sources": [
+     "https://www.sport1.de/news/fussball/2-bundesliga/2024/09/rechtsextremes-banner-in-magdeburg-dfb-ermittelt",
+     "https://www.t-online.de/sport/fussball/2-bundesliga/id_100495826/nazi-parole-im-stadion-dann-entrollen-die-fans-ploetzlich-ein-hass-banner.html",
+     "https://www.volksstimme.de/sport/1-fc-magdeburg/fcm-ultras-fans-nazi-parole-diskussion-stadion-ksc-3921417"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-2.-bundesliga-1.-fc-nürnberg",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "1. FC Nürnberg",
+  "city": "Nuremberg",
+  "lat": 49.4267,
+  "lon": 11.125,
+  "record": "12W-10D-12L, 46 pts — 2. Bundesliga 2025-26",
+  "initials": "1N",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-vfl-osnabrück",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "VfL Osnabrück",
+  "city": "Osnabrück",
+  "lat": 52.2814,
+  "lon": 8.0466,
+  "record": "24W-8D-6L, 80 pts — Champions, 3. Liga 2025-26 (promoted)",
+  "initials": "O",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "germany-2.-bundesliga-fc-st.-pauli",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "FC St. Pauli",
+  "city": "Hamburg",
+  "lat": 53.5548,
+  "lon": 9.9678,
+  "record": "6W-8D-20L, 26 pts — Relegated from Bundesliga 2025-26",
+  "initials": "P",
+  "color": "#3fb8c9",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultra Sankt Pauli",
+    "note": "Ultra Sankt Pauli is well known as a left-wing supporters group. They are well known for demonstrations against fascism.",
+    "sources": [
+     "https://taz.de/FC-St-Pauli/!6081924/",
+     "https://taz.de/FC-St-Pauli-Fans/!5418566/",
+     "https://www.hamburg1.de/st-pauli-fans-gegen-rechts-demonstration-gegen-die-afd-rechtsruck-und-faschismus/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "germany-2.-bundesliga-vfl-wolfsburg",
+  "country": "Germany",
+  "league": "2. Bundesliga",
+  "name": "VfL Wolfsburg",
+  "city": "Wolfsburg",
+  "lat": 52.4319,
+  "lon": 10.8033,
+  "record": "7W-8D-19L, 29 pts — Relegated from Bundesliga 2025-26",
+  "initials": "W",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-paris-saint-germain",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Paris Saint-Germain",
+  "city": "Paris",
+  "lat": 48.8414,
+  "lon": 2.253,
+  "record": "24W-4D-6L, 76 pts — Champions, Ligue 1 2025-26",
+  "initials": "PSG",
+  "color": "#1f9e6b",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Collectif Ultras Paris (Virage Auteuil)",
+    "note": "The Collectif Ultras Paris are not particularly active, politically, however, they have shown support for Palestine in recent years, including the unfurling of a banner demanding a \"Free Palestine.\"",
+    "sources": [
+     "https://www.aljazeera.com/sports/2024/11/7/psg-fans-free-palestine-tifo-draws-criticism-from-french-minister"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-rc-lens",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "RC Lens",
+  "city": "Lens",
+  "lat": 50.4328,
+  "lon": 2.8153,
+  "record": "22W-4D-8L, 70 pts — Ligue 1 2025-26",
+  "initials": "L",
+  "color": "#3fb8c9",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Red Tigers 1994",
+    "note": "Red Tiger 1994 identifies specifically as anti-racist and anti-fascist.",
+    "sources": [
+     "https://www.lesutopiques.org/supporters-antiracistes-et-antifascistes/",
+     "https://www.fcnhisto.fr/red-tigers-1994-groupe-supporters-ultras-officiels-rc-lens-leur-histoire/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-olympique-de-marseille",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Olympique de Marseille",
+  "city": "Marseille",
+  "lat": 43.2696,
+  "lon": 5.3958,
+  "record": "18W-5D-11L, 59 pts — Ligue 1 2025-26",
+  "initials": "OM",
+  "color": "#e07a2f",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Commandos Ultra",
+    "note": "Commandos Ultra has its history tied to left-wing skinheads, and has been known to engage in left-wing violence, even with other left-wing groups.",
+    "sources": [
+     "https://www.observatoire-violences.fr/articles/rixe-entre-ultras-antifascistes-au-sein-du-virage-sud-de-lolympique-marseille",
+     "https://www.huckmag.com/article/the-ultras-of-marseille-are-fighting-for-their-citys-soul",
+     "https://fr.wikipedia.org/wiki/Supporters_de_l%27Olympique_de_Marseille"
+    ]
+   },
+   {
+    "name": "Winners",
+    "note": "Winners is strongly antifa, and has been known to engage in serious violence against percevied far-right organizations.",
+    "sources": [
+     "https://www.observatoire-violences.fr/articles/rixe-entre-ultras-antifascistes-au-sein-du-virage-sud-de-lolympique-marseille",
+     "https://www.huckmag.com/article/the-ultras-of-marseille-are-fighting-for-their-citys-soul",
+     "https://fr.wikipedia.org/wiki/Supporters_de_l%27Olympique_de_Marseille"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-olympique-lyonnais",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Olympique Lyonnais",
+  "city": "Lyon",
+  "lat": 45.7653,
+  "lon": 4.9822,
+  "record": "18W-6D-10L, 60 pts — Ligue 1 2025-26",
+  "initials": "OL",
+  "color": "#5c6bc0",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Bad Gones",
+    "note": "Bad Gones have a long history of neo-fascism dating back to their founding in 1987. They have regularly engaged in racist chanting, and show swastikas.",
+    "sources": [
+     "https://tribunedelyon.fr/sport/ol-croix-gammees-chants-racistes-et-bras-tendus-retour-sur-les-heures-sombres-des-virages-lyonnais/",
+     "https://rebellyon.info/article26305-26305",
+     "https://www.rue89lyon.fr/2012/12/11/les-monts-du-lyonnais-aux-prises-avec-lextreme-droite-radicale/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-losc-lille",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "LOSC Lille",
+  "city": "Lille",
+  "lat": 50.6119,
+  "lon": 3.1303,
+  "record": "18W-7D-9L, 61 pts — Ligue 1 2025-26",
+  "initials": "LL",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Dogues Virage Est",
+    "note": "Dogues Virage Est displayed a tifo with SS images on it. They also engaged in a tribute to far-right leaders Jean-Marie Le Pen tribute, and a neo-Nazi figure among their supporters was identified by an official French National Assembly document.",
+    "sources": [
+     "https://larevuedesmedias.ina.fr/extreme-droite-hooligans-foot-enquete-presse",
+     "https://dialectik-football.info/on-ne-peut-pas-etre-enfant-de-la-deesse-et-enfant-de-ss-a-la-fois/",
+     "https://www.assemblee-nationale.fr/dyn/17/questions/QANR5L17QE713.pdf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-as-monaco",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "AS Monaco",
+  "city": "Monaco",
+  "lat": 43.7274,
+  "lon": 7.4155,
+  "record": "16W-6D-12L, 54 pts — Ligue 1 2025-26",
+  "initials": "M",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-stade-rennais",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Stade Rennais",
+  "city": "Rennes",
+  "lat": 48.1073,
+  "lon": -1.7126,
+  "record": "17W-8D-9L, 59 pts — Ligue 1 2025-26",
+  "initials": "SR",
+  "color": "#d8b451",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Roazhon Celtic Kop",
+    "note": "There has been considerable right-wing activity among supporters at Stade Rennais, including Nazi salutes (specifically the Kuhnen salute), as well as displaying of the SS Totenkopf. Some members of the supporter groups are also tied directly to right-wing organizations.",
+    "sources": [
+     "https://france3-regions.franceinfo.fr/bretagne/ille-et-vilaine/rennes/saluts-neonazis-au-roazhon-park-lors-du-derby-le-stade-rennais-ouvre-une-enquete-interne-et-se-reserve-le-droit-de-porter-plainte-3143864.html",
+     "https://basta.media/les-tribunes-de-rennes-RCK91-et-guingamp-Kop_Rouge-autrefois-antiracistes-basculent-elles-a-extreme-droite",
+     "https://dialectik-football.info/rennes-de-lantiracisme-aux-sympathies-fascistes-la-lente-bascule-en-tribune-mordelles/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-rc-strasbourg",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "RC Strasbourg",
+  "city": "Strasbourg",
+  "lat": 48.5563,
+  "lon": 7.7554,
+  "record": "15W-8D-11L, 53 pts — Ligue 1 2025-26",
+  "initials": "S",
+  "color": "#c94f8a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Offender",
+    "note": "While disbanded in 2025, Strasbourg Offender are still active in the stands. They have a long history of racist and anti-Semitic actions and comments. They are also tied to other neo-fascist groups like Bastion Social.",
+    "sources": [
+     "https://www.streetpress.com/1775738460-malgre-dissolution-hooligans-neonazis-strasbourg-offender-ultras/",
+     "https://www.rue89strasbourg.com/dissoudre-hooligans-neonazi-strasbourg-offender-358694",
+     "https://www.blast-info.fr/articles/2025/dissolution-du-groupe-neonazi-strasbourg-offender-mttbzyaeSK22ZD0TcjyBkA"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-toulouse-fc",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Toulouse FC",
+  "city": "Toulouse",
+  "lat": 43.5828,
+  "lon": 1.4342,
+  "record": "12W-9D-13L, 45 pts — Ligue 1 2025-26",
+  "initials": "T",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-fc-lorient",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "FC Lorient",
+  "city": "Lorient",
+  "lat": 47.7497,
+  "lon": -3.3743,
+  "record": "11W-12D-11L, 45 pts — Ligue 1 2025-26",
+  "initials": "L",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-stade-brestois",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Stade Brestois",
+  "city": "Brest",
+  "lat": 48.4051,
+  "lon": -4.4715,
+  "record": "10W-9D-15L, 39 pts — Ligue 1 2025-26",
+  "initials": "SB",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-angers-sco",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Angers SCO",
+  "city": "Angers",
+  "lat": 47.455,
+  "lon": -0.529,
+  "record": "9W-9D-16L, 36 pts — Ligue 1 2025-26",
+  "initials": "AS",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-paris-fc",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Paris FC",
+  "city": "Paris",
+  "lat": 48.8253,
+  "lon": 2.2531,
+  "record": "11W-11D-12L, 44 pts — Ligue 1 2025-26",
+  "initials": "P",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-le-havre-ac",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Le Havre AC",
+  "city": "Le Havre",
+  "lat": 49.4984,
+  "lon": 0.1568,
+  "record": "7W-14D-13L, 35 pts — Ligue 1 2025-26",
+  "initials": "LH",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-ogc-nice",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "OGC Nice",
+  "city": "Nice",
+  "lat": 43.7051,
+  "lon": 7.1926,
+  "record": "7W-11D-16L, 32 pts — Ligue 1 2025-26",
+  "initials": "ON",
+  "color": "#d8b451",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Brigade Sud Nice / Populaire Sud",
+    "note": "The Populaire Sud, previously known as Brigide Sud Nice, is one of the most virulently right-wing supporter groups in France. In recent years they have engaged in not only racist chants, but substantial racist and far-right violence as far away from Nice as Paris.",
+    "sources": [
+     "https://www.streetpress.com/sujet/1644259006-club-1543-bistrot-prefere-extreme-droite-nicoise",
+     "https://france3-regions.franceinfo.fr/provence-alpes-cote-d-azur/alpes-maritimes/nice/banderoles-racistes-agressions-de-joueurs-passages-a-tabac-a-paris-comment-l-identitarisme-assume-des-ultras-de-l-ogc-nice-a-marque-la-saison-3362164.html",
+     "https://webmedias.ac-nice.fr/chasseursdactu/2026/03/24/portrait-histoire-du-groupe-ultra-a-nice-la-bsn/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-1-aj-auxerre",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "AJ Auxerre",
+  "city": "Auxerre",
+  "lat": 47.7942,
+  "lon": 3.5906,
+  "record": "8W-10D-16L, 34 pts — Ligue 1 2025-26",
+  "initials": "AA",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-es-troyes",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "ES Troyes",
+  "city": "Troyes",
+  "lat": 48.2894,
+  "lon": 4.0916,
+  "record": "20W-7D-7L, 67 pts — Champions, Ligue 2 2025-26 (promoted)",
+  "initials": "ET",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-1-le-mans-fc",
+  "country": "France",
+  "league": "Ligue 1",
+  "name": "Le Mans FC",
+  "city": "Le Mans",
+  "lat": 48.0031,
+  "lon": 0.1808,
+  "record": "16W-14D-4L, 62 pts — Ligue 2 2025-26 (promoted)",
+  "initials": "LM",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-amiens-sc",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Amiens SC",
+  "city": "Amiens",
+  "lat": 49.8807,
+  "lon": 2.3018,
+  "record": "6W-6D-22L, 24 pts — Ligue 2 2025-26",
+  "initials": "A",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-fc-annecy",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "FC Annecy",
+  "city": "Annecy",
+  "lat": 45.9081,
+  "lon": 6.1211,
+  "record": "15W-7D-12L, 52 pts — Ligue 2 2025-26",
+  "initials": "A",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-us-boulogne",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "US Boulogne",
+  "city": "Boulogne-sur-Mer",
+  "lat": 50.7264,
+  "lon": 1.6147,
+  "record": "9W-9D-16L, 36 pts — Ligue 2 2025-26",
+  "initials": "UB",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-clermont-foot",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Clermont Foot",
+  "city": "Clermont-Ferrand",
+  "lat": 45.7681,
+  "lon": 3.1187,
+  "record": "9W-10D-15L, 37 pts — Ligue 2 2025-26",
+  "initials": "CF",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Brigade Arverne",
+    "note": "Brigade Averne is known for right-wing behavior and violence during matches, including making threats and racist chants and comments.",
+    "sources": [
+     "https://larevuedesmedias.ina.fr/extreme-droite-hooligans-foot-enquete-presse"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-2-usl-dunkerque",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "USL Dunkerque",
+  "city": "Dunkirk",
+  "lat": 51.0343,
+  "lon": 2.3766,
+  "record": "11W-10D-13L, 43 pts — Ligue 2 2025-26",
+  "initials": "UD",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-grenoble-foot",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Grenoble Foot",
+  "city": "Grenoble",
+  "lat": 45.1807,
+  "lon": 5.7423,
+  "record": "8W-15D-11L, 39 pts — Ligue 2 2025-26",
+  "initials": "GF",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-ea-guingamp",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "EA Guingamp",
+  "city": "Guingamp",
+  "lat": 48.5622,
+  "lon": -3.1503,
+  "record": "10W-10D-14L, 40 pts — Ligue 2 2025-26",
+  "initials": "EG",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Kop Rouge 1993",
+    "note": "Kop Rouge 1993 has been tied to violence against anti-racist and anti-fascist fans with some even being found guilty in court. They have also been cited for racist rhetoric.",
+    "sources": [
+     "https://basta.media/les-tribunes-de-rennes-RCK91-et-guingamp-Kop_Rouge-autrefois-antiracistes-basculent-elles-a-extreme-droite"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-2-montpellier-hsc",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Montpellier HSC",
+  "city": "Montpellier",
+  "lat": 43.6229,
+  "lon": 3.8123,
+  "record": "14W-9D-11L, 51 pts — Ligue 2 2025-26",
+  "initials": "MH",
+  "color": "#5c6bc0",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Armata Ultras",
+    "note": "While disbanded in 2023, Armata Ultras identified specifically as anti-fascist.",
+    "sources": [
+     "https://dialectik-football.info/ultras-no-politica-politique-dans-le-derby-occitan-nimes-montpellier/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-2-as-nancy-lorraine",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "AS Nancy Lorraine",
+  "city": "Nancy",
+  "lat": 48.6844,
+  "lon": 6.2044,
+  "record": "9W-10D-15L, 37 pts — Ligue 2 2025-26",
+  "initials": "NL",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-pau-fc",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Pau FC",
+  "city": "Pau",
+  "lat": 43.3126,
+  "lon": -0.3779,
+  "record": "12W-9D-13L, 45 pts — Ligue 2 2025-26",
+  "initials": "P",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-red-star-fc",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Red Star FC",
+  "city": "Saint-Ouen",
+  "lat": 48.9086,
+  "lon": 2.3336,
+  "record": "16W-10D-8L, 58 pts — Ligue 2 2025-26",
+  "initials": "RS",
+  "color": "#7cb342",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Red Star Fans",
+    "note": "Red Star is a committed anti-fascist fanbase.",
+    "sources": [
+     "https://www.vice.com/fr/article/gy5vgb/breve-histoire-etoile-rouge-red-star",
+     "https://legendissime.com/en/who-are-the-red-star-fc-ultras-and-the-rino-della-negra-stand/",
+     "https://paris-luttes.info/porte-d-italie-affrontements-entre?lang=fr"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-2-stade-de-reims",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Stade de Reims",
+  "city": "Reims",
+  "lat": 49.2467,
+  "lon": 4.0347,
+  "record": "14W-14D-6L, 56 pts — Ligue 2 2025-26",
+  "initials": "SR",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-rodez-af",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Rodez AF",
+  "city": "Rodez",
+  "lat": 44.3496,
+  "lon": 2.575,
+  "record": "15W-13D-6L, 58 pts — Ligue 2 2025-26",
+  "initials": "RA",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-as-saint-étienne",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "AS Saint-Étienne",
+  "city": "Saint-Étienne",
+  "lat": 45.4608,
+  "lon": 4.3901,
+  "record": "18W-6D-10L, 60 pts — Ligue 2 2025-26",
+  "initials": "SÉ",
+  "color": "#1f9e6b",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Green Angels",
+    "note": "Green Angels are a decidedly left-wing organization dedicated to anti-racism, anti-fascism and supporting working-class people.",
+    "sources": [
+     "https://balkanhotspot.org/articles/the-ultras-against-repression-for-passion-the-green-angels-in-struggle/",
+     "https://www.lesutopiques.org/supporters-antiracistes-et-antifascistes/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-2-fc-metz",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "FC Metz",
+  "city": "Metz",
+  "lat": 49.1098,
+  "lon": 6.1716,
+  "record": "3W-8D-23L, 17 pts — Relegated from Ligue 1 2025-26",
+  "initials": "M",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-fc-nantes",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "FC Nantes",
+  "city": "Nantes",
+  "lat": 47.2559,
+  "lon": -1.5253,
+  "record": "5W-9D-20L, 24 pts — Relegated from Ligue 1 2025-26",
+  "initials": "N",
+  "color": "#3fb8c9",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Brigade Loire",
+    "note": "Brigade Loire is decidedly anti-establishment and anti-system, with a political attitudes leaning towards the left.",
+    "sources": [
+     "https://sportsactuindependant.com/histoire-de-la-brigade-loire-les-ultras-du-fc-nantes/",
+     "https://www.ici.fr/sports/football/fc-nantes-le-ministre-de-l-interieur-demande-a-la-brigade-loire-la-baisse-des-tensions-et-des-violences-2450925",
+     "https://nantes-infos.fr/nantes-comment-peut-on-sattaquer-a-la-brigade-loire/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "france-ligue-2-dijon-fco",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "Dijon FCO",
+  "city": "Dijon",
+  "lat": 47.3084,
+  "lon": 5.0388,
+  "record": "18W-11D-3L, 65 pts — National 2025-26 (promoted)",
+  "initials": "DF",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "france-ligue-2-fc-sochaux-montbéliard",
+  "country": "France",
+  "league": "Ligue 2",
+  "name": "FC Sochaux-Montbéliard",
+  "city": "Sochaux",
+  "lat": 47.506,
+  "lon": 6.8104,
+  "record": "16W-10D-6L, 58 pts — National 2025-26 (promoted)",
+  "initials": "SM",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-inter-milan",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Inter Milan",
+  "city": "Milan",
+  "lat": 45.4781,
+  "lon": 9.124,
+  "record": "27W-6D-5L, 87 pts — Champions, Serie A 2025-26",
+  "initials": "IM",
+  "color": "#5c6bc0",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Boys San (faction)",
+    "note": "The largest ultra for Inter, Boys, has a long history of right-wing actions. Historically, the group has had connection to neo-fascists. In recent years, Inter Milan fans have been sanctioned for racist chants.",
+    "sources": [
+     "https://www.cbc.ca/sports/soccer/inter-milan-children-1.4971130",
+     "http://ndl.ethernet.edu.et/bitstream/123456789/62138/1/352.pdf.pdf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-ac-milan",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "AC Milan",
+  "city": "Milan",
+  "lat": 45.4901,
+  "lon": 9.136,
+  "record": "20W-10D-8L, 70 pts — Serie A 2025-26",
+  "initials": "M",
+  "color": "#5c6bc0",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Fossi del Leoni",
+    "note": "",
+    "sources": [
+     "https://hopenothate.org.uk/2021/08/09/the-ultras/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-napoli",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Napoli",
+  "city": "Naples",
+  "lat": 40.828,
+  "lon": 14.193,
+  "record": "23W-7D-8L, 76 pts — Serie A 2025-26",
+  "initials": "N",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-as-roma",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "AS Roma",
+  "city": "Rome",
+  "lat": 41.9339,
+  "lon": 12.4547,
+  "record": "23W-4D-11L, 73 pts — Serie A 2025-26",
+  "initials": "R",
+  "color": "#d8b451",
+  "political_category": "Split",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Fedayn",
+    "note": "Fedayn is one of two main ultra groups (although it was disbanded in 2023 after its banner was stolen and destroyed). They identified as left-wing, communist, and anti-fascist",
+    "sources": [
+     "https://www.orizzontipolitici.it/ultras-e-politica-una-mappa-del-tifo-nelle-curve-di-serie-a-2/"
+    ]
+   },
+   {
+    "name": "Boys",
+    "note": "Boys is the other main ultra group for AS Roma and have been far-right and fascist from their founding in the 1970s.",
+    "sources": [
+     "https://www.theguardian.com/football/blog/2014/dec/11/roma-serie-a-alternative-club-guide"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-juventus",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Juventus",
+  "city": "Turin",
+  "lat": 45.1096,
+  "lon": 7.6413,
+  "record": "19W-12D-7L, 69 pts — Serie A 2025-26",
+  "initials": "J",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Drughi",
+    "note": "Drughi, as well as other supporter groups of Juventus, have been sanctioned for racist chants during matches.",
+    "sources": [
+     "https://www.linkiesta.it/2019/09/serie-a-razzismo-cori-juventus/",
+     "https://thesis.unipd.it/retrieve/476311e3-370d-4179-ba65-169bde7edca9/Sotto%20le%20bandiere%20ultr%C3%A0_%20un%27analisi%20bidirezionale%20delle%20dinamiche%20politiche%20nelle%20curve%20italiane.pdf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-como",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Como",
+  "city": "Como",
+  "lat": 45.7897,
+  "lon": 9.0763,
+  "record": "20W-11D-7L, 71 pts — Serie A 2025-26",
+  "initials": "C",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-atalanta",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Atalanta",
+  "city": "Bergamo",
+  "lat": 45.7089,
+  "lon": 9.6802,
+  "record": "15W-14D-9L, 59 pts — Serie A 2025-26",
+  "initials": "A",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-bologna",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Bologna",
+  "city": "Bologna",
+  "lat": 44.4924,
+  "lon": 11.3095,
+  "record": "16W-8D-14L, 56 pts — Serie A 2025-26",
+  "initials": "B",
+  "color": "#8a4fdb",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Curva Andrea Costa",
+    "note": "While there have been some right-wing factions within the Curva Andrea Costa, they are generally outnumbered by many left-wing ultra groups that developed in the decidedly left-wing city of Bologna.",
+    "sources": [
+     "https://tesi.luiss.it/38492/1/747311_MEILER_GIL%20MAEL.pdf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-lazio",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Lazio",
+  "city": "Rome",
+  "lat": 41.9459,
+  "lon": 12.4667,
+  "record": "14W-12D-12L, 54 pts — Serie A 2025-26",
+  "initials": "L",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Lazio Ultras",
+    "note": "The fans in Lazio Ultras are openly and proudly pro-fascist.",
+    "sources": [
+     "https://www.ilpost.it/2021/11/22/lazio-tifosi-fascisti/",
+     "https://www.agi.it/cronaca/ultras_estrema_destra_italia-2290013/news/2017-10-25/",
+     "https://pallonateinfaccia.com/2021/10/24/lazio-tifosi-fascismo/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-udinese",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Udinese",
+  "city": "Udine",
+  "lat": 46.0801,
+  "lon": 13.2019,
+  "record": "14W-8D-16L, 50 pts — Serie A 2025-26",
+  "initials": "U",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Hooligans Teddy Boys",
+    "note": "Hooligans Teddy Boys have been linked with pro-Nazi groups. Udinese fans have also espoused anti-semitic and neo-fascist views on many occasion.s",
+    "sources": [
+     "https://www.orizzontipolitici.it/ultras-e-politica-una-mappa-del-tifo-nelle-curve-di-serie-a-2/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-torino",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Torino",
+  "city": "Turin",
+  "lat": 45.0417,
+  "lon": 7.6817,
+  "record": "12W-9D-17L, 45 pts — Serie A 2025-26",
+  "initials": "T",
+  "color": "#8a4fdb",
+  "political_category": "Split",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultras Granata",
+    "note": "The tradionallty largest supporter group, the Ultras Granata have been associated with leftist politics, including support for Basque independence.",
+    "sources": [
+     "https://www.theguardian.com/football/the-gentleman-ultra/2015/apr/16/torino-serie-a-alternative-club-guide-lentini"
+    ]
+   },
+   {
+    "name": "Granata Korps",
+    "note": "In recent years, additional supporter groups, including Granata Korps have become larger. Granata Korps has substantial right-wing tendencies, although still largely out numbered.",
+    "sources": [
+     "https://www.theguardian.com/football/the-gentleman-ultra/2015/apr/16/torino-serie-a-alternative-club-guide-lentini"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-sassuolo",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Sassuolo",
+  "city": "Sassuolo",
+  "lat": 44.5479,
+  "lon": 10.7857,
+  "record": "14W-7D-17L, 49 pts — Serie A 2025-26",
+  "initials": "S",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-parma",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Parma",
+  "city": "Parma",
+  "lat": 44.8189,
+  "lon": 10.3548,
+  "record": "11W-12D-15L, 45 pts — Serie A 2025-26",
+  "initials": "P",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-cagliari",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Cagliari",
+  "city": "Cagliari",
+  "lat": 39.2278,
+  "lon": 9.1217,
+  "record": "11W-10D-17L, 43 pts — Serie A 2025-26",
+  "initials": "C",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-genoa",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Genoa",
+  "city": "Genoa",
+  "lat": 44.4144,
+  "lon": 8.9339,
+  "record": "10W-11D-17L, 41 pts — Serie A 2025-26",
+  "initials": "G",
+  "color": "#5c6bc0",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ottavio Barbieri Ultras",
+    "note": "The Ottavio Barbiere Ultras, often, but not only through Fossa del Grifoni, are decidedly anti-fascist and left-wing. There was a supporter club for about 15 years, Brigata Speloncia, that was right-wing, however, it was a minority and has been disbanded.",
+    "sources": [
+     "https://www.ecodibergamo.it/stories/corner/editoriali/atalanta-arriva-il-genoa-ma-non-i-suoi-ultra-una-curva-un-nome-ottavio-barbi_1383032_11/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-lecce",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Lecce",
+  "city": "Lecce",
+  "lat": 40.3648,
+  "lon": 18.1701,
+  "record": "10W-8D-20L, 38 pts — Serie A 2025-26",
+  "initials": "L",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-fiorentina",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Fiorentina",
+  "city": "Florence",
+  "lat": 43.7809,
+  "lon": 11.2822,
+  "record": "9W-15D-14L, 42 pts — Serie A 2025-26",
+  "initials": "F",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-venezia",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Venezia",
+  "city": "Venice",
+  "lat": 45.4408,
+  "lon": 12.3155,
+  "record": "24W-10D-4L, 82 pts — Champions, Serie B 2025-26 (promoted)",
+  "initials": "V",
+  "color": "#2f6fce",
+  "political_category": "Split",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Gate 22",
+    "note": "Academic research identifies Gate 22 as a far-left ultra group that affiliates with other left-wing ultras groups, most notably Rapids.",
+    "sources": [
+     "https://research-information.bris.ac.uk/ws/portalfiles/portal/481751520/Resubmission_with_corrections_PGR_Submission_Milazzo_Jonathan_2261896_.pdf"
+    ]
+   },
+   {
+    "name": "Vecchi Ultras",
+    "note": "Academic research identifies Vecchi Ultras as far-right, with the organization historically having violent clashes with Gate 22, the far-left ultra group supporting Venezia FC.",
+    "sources": [
+     "https://research-information.bris.ac.uk/ws/portalfiles/portal/481751520/Resubmission_with_corrections_PGR_Submission_Milazzo_Jonathan_2261896_.pdf"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-a-frosinone",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Frosinone",
+  "city": "Frosinone",
+  "lat": 41.6198,
+  "lon": 13.3421,
+  "record": "23W-12D-3L, 81 pts — Serie B 2025-26 (promoted)",
+  "initials": "F",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-a-monza",
+  "country": "Italy",
+  "league": "Serie A",
+  "name": "Monza",
+  "city": "Monza",
+  "lat": 45.5787,
+  "lon": 9.2795,
+  "record": "22W-10D-6L, 76 pts — Serie B 2025-26, won promotion play-off",
+  "initials": "M",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-palermo",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Palermo",
+  "city": "Palermo",
+  "lat": 38.1687,
+  "lon": 13.3536,
+  "record": "20W-12D-6L, 72 pts — Serie B 2025-26",
+  "initials": "P",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-catanzaro",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Catanzaro",
+  "city": "Catanzaro",
+  "lat": 38.9098,
+  "lon": 16.5877,
+  "record": "15W-14D-9L, 59 pts — Serie B 2025-26",
+  "initials": "C",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-modena",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Modena",
+  "city": "Modena",
+  "lat": 44.6373,
+  "lon": 10.941,
+  "record": "15W-10D-13L, 55 pts — Serie B 2025-26",
+  "initials": "M",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-juve-stabia",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Juve Stabia",
+  "city": "Castellammare di Stabia",
+  "lat": 40.7031,
+  "lon": 14.4778,
+  "record": "11W-18D-9L, 51 pts — Serie B 2025-26",
+  "initials": "JS",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-cesena",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Cesena",
+  "city": "Cesena",
+  "lat": 44.1442,
+  "lon": 12.2358,
+  "record": "12W-10D-16L, 46 pts — Serie B 2025-26",
+  "initials": "C",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-sudtirol",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Sudtirol",
+  "city": "Bolzano",
+  "lat": 46.5013,
+  "lon": 11.3416,
+  "record": "8W-17D-13L, 41 pts — Serie B 2025-26",
+  "initials": "S",
+  "color": "#d8b451",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Gradinata Nord Bolzano",
+    "note": "Italian nationalism is evident in the rejection of the name \"Sudtirol,\" in favor of Alto Adige. The organization is also tied to the far-right political party Brothers of Italy.",
+    "sources": [
+     "https://www.pianetaempoli.it/curva-ospiti-i-tifosi-del-sudtirol/",
+     "https://www.ildolomiti.it/politica/2022/il-nome-sudtirol-non-ci-rappresenta-una-parte-dei-tifosi-sostenuta-da-fratelli-ditalia-chiede-di-cambiare-denominazione-alla-squadra-di-calcio-di-bolzano",
+     "https://italofonia.info/bolzano-i-tifosi-dellfc-sudtirol-niente-nome-in-italiano-allora-basta-sostegno/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-b-carrarese",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Carrarese",
+  "city": "Carrara",
+  "lat": 44.0698,
+  "lon": 10.1034,
+  "record": "10W-14D-14L, 44 pts — Serie B 2025-26",
+  "initials": "C",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-empoli",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Empoli",
+  "city": "Empoli",
+  "lat": 43.7181,
+  "lon": 10.9505,
+  "record": "9W-14D-15L, 41 pts — Serie B 2025-26",
+  "initials": "E",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-sampdoria",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Sampdoria",
+  "city": "Genoa",
+  "lat": 44.4264,
+  "lon": 8.9459,
+  "record": "11W-11D-16L, 44 pts — Serie B 2025-26",
+  "initials": "S",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-padova",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Padova",
+  "city": "Padua",
+  "lat": 45.4131,
+  "lon": 11.899,
+  "record": "12W-10D-16L, 46 pts — Serie B 2025-26",
+  "initials": "P",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-avellino",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Avellino",
+  "city": "Avellino",
+  "lat": 40.9147,
+  "lon": 14.7913,
+  "record": "13W-10D-15L, 49 pts — Serie B 2025-26",
+  "initials": "A",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-virtus-entella",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Virtus Entella",
+  "city": "Chiavari",
+  "lat": 44.3167,
+  "lon": 9.3253,
+  "record": "10W-12D-16L, 42 pts — Serie B 2025-26",
+  "initials": "VE",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-mantova",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Mantova",
+  "city": "Mantua",
+  "lat": 45.1564,
+  "lon": 10.7914,
+  "record": "13W-7D-18L, 46 pts — Serie B 2025-26",
+  "initials": "M",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-pisa",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Pisa",
+  "city": "Pisa",
+  "lat": 43.7228,
+  "lon": 10.4017,
+  "record": "2W-12D-24L, 18 pts — Relegated from Serie A 2025-26",
+  "initials": "P",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-hellas-verona",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Hellas Verona",
+  "city": "Verona",
+  "lat": 45.4523,
+  "lon": 10.9916,
+  "record": "3W-12D-23L, 21 pts — Relegated from Serie A 2025-26",
+  "initials": "HV",
+  "color": "#e0263a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Curva Sud",
+    "note": "Curva Sud has a history of engaging in violence and racist chanting, often aimed at opposing players.",
+    "sources": [
+     "https://www.cnn.com/2019/11/04/football/balotelli-racist-chants-football-serie-a-intl-spt",
+     "https://pallonateinfaccia.com/2019/09/20/tifo-nazista-verona/",
+     "https://www.cnn.com/2025/05/23/sport/hellas-verona-1984-85-serie-a-italy-spt-intl"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "italy-serie-b-cremonese",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Cremonese",
+  "city": "Cremona",
+  "lat": 45.1335,
+  "lon": 10.0227,
+  "record": "8W-10D-20L, 34 pts — Relegated from Serie A 2025-26",
+  "initials": "C",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-vicenza",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Vicenza",
+  "city": "Vicenza",
+  "lat": 45.5344,
+  "lon": 11.5464,
+  "record": "27W-8D-3L, 89 pts — Champions Group A, Serie C 2025-26 (promoted)",
+  "initials": "V",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-arezzo",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Arezzo",
+  "city": "Arezzo",
+  "lat": 43.4633,
+  "lon": 11.8797,
+  "record": "24W-8D-4L, 80 pts — Champions Group, Serie C 2025-26 (promoted)",
+  "initials": "A",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-benevento",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Benevento",
+  "city": "Benevento",
+  "lat": 41.1298,
+  "lon": 14.7826,
+  "record": "25W-7D-6L, 82 pts — Champions Group, Serie C 2025-26 (promoted)",
+  "initials": "B",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "italy-serie-b-ascoli",
+  "country": "Italy",
+  "league": "Serie B",
+  "name": "Ascoli",
+  "city": "Ascoli Piceno",
+  "lat": 42.8551,
+  "lon": 13.5921,
+  "record": "23W-8D-5L, 77 pts — Serie C 2025-26, won promotion play-off",
+  "initials": "A",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Settembre Bianconero",
+    "note": "The name of Settembre Bianconero is a reference to the Palestinian militant organization Black September that carried out the attacks at the Munich Olympics. They are neo-fascist and anti-Semitic",
+    "sources": [
+     "https://www.rivistacontrasti.it/ascoli-calcio-tifosi-curva-ultras-1898-settembre-bianconero-serie-b/",
+     "https://www.tifosi-shop.com/materiale-tifosi-ascoli.html",
+     "https://www.freeforumzone.com/mobile/d/10023409/18-Giornata-Empoli-Ascoli-/discussione.aspx?p=1&pl=1&idm1=114576204"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-barcelona",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Barcelona",
+  "city": "Barcelona",
+  "lat": 41.3809,
+  "lon": 2.1228,
+  "record": "31W-1D-6L, 94 pts — Champions, La Liga 2025-26",
+  "initials": "B",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Boixos Nois",
+    "note": "Boixos Nois began as a more left-leaning supporter group, however, over time it evolved into a far-right neo-Nazi organization.",
+    "sources": [
+     "https://www.mundoultras.com/grupos/boixos-nois",
+     "https://www.publico.es/politica/ultras-futbol-hermanan-combatir-grupos-rivales.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-real-madrid",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Real Madrid",
+  "city": "Madrid",
+  "lat": 40.4531,
+  "lon": -3.6883,
+  "record": "27W-5D-6L, 86 pts — Runner-up, La Liga 2025-26",
+  "initials": "RM",
+  "color": "#7cb342",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultra Sur",
+    "note": "Ultra Sur has strong historical ties to right-wing politics, including racist chants. Real Madrid is also closely tied to the Franco regime.",
+    "sources": [
+     "https://www.mundoultras.com/grupos/ultra-sur",
+     "https://www.publico.es/politica/ultras-futbol-hermanan-combatir-grupos-rivales.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-villarreal",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Villarreal",
+  "city": "Villarreal",
+  "lat": 39.9442,
+  "lon": -0.1035,
+  "record": "22W-6D-10L, 72 pts — La Liga 2025-26",
+  "initials": "V",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-atletico-madrid",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Atletico Madrid",
+  "city": "Madrid",
+  "lat": 40.4362,
+  "lon": -3.5995,
+  "record": "21W-6D-11L, 69 pts — La Liga 2025-26",
+  "initials": "AM",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Frente Atletico",
+    "note": "Frente Atletico is a radical far-right groups that has often been seen giving Nazi salutes.",
+    "sources": [
+     "https://sports.yahoo.com/why-atletico-madrid-t-expel-001400697.html",
+     "https://www.libertaddigital.com/deportes/futbol/2018-12-17/detienen-en-belgica-al-miembro-del-frente-atletico-que-asesino-a-aitor-zabaleta-1276629977/",
+     "https://www.thetvdb.com/series/hoy-en-el-pais/episodes/11154001"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-real-betis",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Real Betis",
+  "city": "Seville",
+  "lat": 37.3565,
+  "lon": -5.9819,
+  "record": "15W-15D-8L, 60 pts — La Liga 2025-26",
+  "initials": "RB",
+  "color": "#1f9e6b",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Supporters Gol Sur",
+    "note": "Supporters Gol Sur is a right-wing organization tied to Spanish ultra-nationalism.",
+    "sources": [
+     "https://www.elconfidencialdigital.com/autonomico/articulo/andalucia/Confesiones-Betis-Sevilla-complicado-enfrentamiento/20161026210517019140.html",
+     "https://www.elespanol.com/reportajes/20220116/supporters-gol-sur-vs-family-united-betis/642935811_0.html",
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-celta-vigo",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Celta Vigo",
+  "city": "Vigo",
+  "lat": 42.2119,
+  "lon": -8.7431,
+  "record": "14W-12D-12L, 54 pts — La Liga 2025-26",
+  "initials": "CV",
+  "color": "#e0263a",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Celtarras",
+    "note": "The Centarras are largely considered a left-wing group. They were involved in pressuring ownership to avoid hiring Carlos Mourino, who has espoused right-wing beliefs, as manager.",
+    "sources": [
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-getafe",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Getafe",
+  "city": "Getafe",
+  "lat": 40.3255,
+  "lon": -3.7143,
+  "record": "15W-6D-17L, 51 pts — La Liga 2025-26",
+  "initials": "G",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-rayo-vallecano",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Rayo Vallecano",
+  "city": "Madrid",
+  "lat": 40.3921,
+  "lon": -3.6605,
+  "record": "12W-14D-12L, 50 pts — La Liga 2025-26",
+  "initials": "RV",
+  "color": "#e0263a",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Bukaneros",
+    "note": "Bukaneros, among other fans of Rayo Vallecano, are well known for anti-fascist and anti-racist attitudes. In 2019 a game against Albacete was cancelled when the Rayo Vallecano fans began chants accusing an Albacete player of being a \"Nazi.\"",
+    "sources": [
+     "https://www.mundoultras.com/grupos/bukaneros",
+     "https://www.telemadrid.es/deportes/Frente-Atletico-Bukaneros-Herri-Norte-vuelve-el-paisaje-ultra-0-2711428884--20240930090000.html",
+     "https://www.catalannews.com/sports/item/football-game-suspended-over-nazi-chants-so-where-s-the-limit?fbclid=IwY2xjawTQTEtleHRuA2FlbQIxMQBicmlkETFwRzFFbzdTVVpDcmVVYnAxc3J0YwZhcHBfaWQQMjIyMDM5MTc4ODIwMDg5MgABHnUpTX2nV7Z2jdzIImAmalg3Si6_LYmb1O1ZMpvfOeDOIsBYi88X3o2A8OW5_aem_TgtlUguoXAOfaySfPn64kQ"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-valencia",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Valencia",
+  "city": "Valencia",
+  "lat": 39.4747,
+  "lon": -0.3583,
+  "record": "13W-10D-15L, 49 pts — La Liga 2025-26",
+  "initials": "V",
+  "color": "#1f9e6b",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultras Yomus",
+    "note": "Ultras Yomus have been identified by police as a far-right organization.",
+    "sources": [
+     "https://www.mundoultras.com/grupos/ultras-yomus",
+     "https://colgadosporelfutbol.com/en/los-mas-ultras-de-espana/",
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-real-sociedad",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Real Sociedad",
+  "city": "San Sebastián",
+  "lat": 43.3014,
+  "lon": -1.9736,
+  "record": "11W-13D-14L, 46 pts — La Liga 2025-26",
+  "initials": "RS",
+  "color": "#5c6bc0",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Peña Mujika",
+    "note": "Peña Mujika is associated with Basque independence and has some anti-fascist tendencies.",
+    "sources": [
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-espanyol",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Espanyol",
+  "city": "Barcelona",
+  "lat": 41.3499,
+  "lon": 2.0827,
+  "record": "12W-10D-16L, 46 pts — La Liga 2025-26",
+  "initials": "E",
+  "color": "#1f9e6b",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Brigadas Blanquiazules",
+    "note": "Main supporter group Brigadas Blanquiazules has been identified by Spanish police as being far-right.",
+    "sources": [
+     "https://www.publico.es/politica/ultras-futbol-hermanan-combatir-grupos-rivales.html",
+     "https://www.mundoultras.com/grupos/brigadas-blanquiazules",
+     "https://en.as.com/en/2016/09/08/soccer/1473341467_090878.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-athletic-bilbao",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Athletic Bilbao",
+  "city": "Bilbao",
+  "lat": 43.2642,
+  "lon": -2.9494,
+  "record": "13W-6D-19L, 45 pts — La Liga 2025-26",
+  "initials": "AB",
+  "color": "#8a4fdb",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Herri Norte",
+    "note": "Herri Nortes are strongly associated with Basque independence and identifies as anti-fascist. They have had some issues with violent behavior, particularly regarding a match against Roma.",
+    "sources": [
+     "https://www.mundoultras.com/clubes/athletic-club",
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html",
+     "https://www.telemadrid.es/deportes/Frente-Atletico-Bukaneros-Herri-Norte-vuelve-el-paisaje-ultra-0-2711428884--20240930090000.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-sevilla",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Sevilla",
+  "city": "Seville",
+  "lat": 37.3841,
+  "lon": -5.9707,
+  "record": "12W-7D-19L, 43 pts — La Liga 2025-26",
+  "initials": "S",
+  "color": "#e0263a",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Biris Norte",
+    "note": "Biris Norte is reported in media as being leftist, anti-fascist, and anti-racist.",
+    "sources": [
+     "https://www.mundoultras.com/grupos/biris-norte",
+     "https://www.telemadrid.es/deportes/Frente-Atletico-Bukaneros-Herri-Norte-vuelve-el-paisaje-ultra-0-2711428884--20240930090000.html",
+     "https://www.footballheritage.co.uk/politicised-supporters"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-alaves",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Alaves",
+  "city": "Vitoria-Gasteiz",
+  "lat": 42.8467,
+  "lon": -2.6817,
+  "record": "11W-10D-17L, 43 pts — La Liga 2025-26",
+  "initials": "A",
+  "color": "#5c6bc0",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Iraultza",
+    "note": "Named after an revolutionary Basque organization, Iraultza is tied to the violent ETA, which was a Marxist-Leninist pro-Basque independence terrorist organization that disbanded in 2018.",
+    "sources": [
+     "https://www.hoyaragon.es/articulo/sucesos-hoy-zaragoza/ultras-en-guerra-futbol-la-convivencia-se-tensiona-entre-las-dos-bandas/20230926060000042601.html",
+     "https://elgeneracionalpost.com/deportes/futbol/2024/0929/167999/hermanamientos-ultras-en-espana-nacionales-e-internacionales.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-elche",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Elche",
+  "city": "Elche",
+  "lat": 38.2622,
+  "lon": -0.6893,
+  "record": "10W-13D-15L, 43 pts — La Liga 2025-26",
+  "initials": "E",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-levante",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Levante",
+  "city": "Valencia",
+  "lat": 39.4894,
+  "lon": -0.3583,
+  "record": "11W-9D-18L, 42 pts — La Liga 2025-26",
+  "initials": "L",
+  "color": "#c94f8a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultras Levante",
+    "note": "While not remarkably right-wing, some reports have Ultra Levante drawing support from some far-right parts of society.",
+    "sources": [
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-osasuna",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Osasuna",
+  "city": "Pamplona",
+  "lat": 42.7965,
+  "lon": -1.6362,
+  "record": "11W-9D-18L, 42 pts — La Liga 2025-26",
+  "initials": "O",
+  "color": "#8a4fdb",
+  "political_category": "Left-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Indar Gorri",
+    "note": "Indar Gorri translates to \"Red Force\" and is virulently anti-fascist. It is also strongly pro-Basque independence, wearing the colors of the Basque flag in the stands. Additionally, the group is strongly associated with animosity towards right-leaning Real Madrid.",
+    "sources": [
+     "https://www.mundoultras.com/grupos/indar-gorri",
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-racing-santander",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Racing Santander",
+  "city": "Santander",
+  "lat": 43.4692,
+  "lon": -3.8306,
+  "record": "25W-7D-10L, 82 pts — Champions, Segunda 2025-26 (promoted)",
+  "initials": "RS",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Juventudes Verdiblancas",
+    "note": "Members of the suporter group, Juventudes Verdiblancas, have faced charged under xenophobia and racism laws in Spain. The organization has also been involved in violent behaviors.",
+    "sources": [
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html",
+     "http://canalfutbol.blogspot.com/2008/12/lista-grupos-ultras-en-espaa.html",
+     "https://www.laliga.com/en-GB/news/laliga-will-take-those-accused-of-racist-insults-against-inaki-williams-to-court"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-deportivo-la-coruna",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Deportivo La Coruna",
+  "city": "A Coruña",
+  "lat": 43.3712,
+  "lon": -8.4173,
+  "record": "22W-11D-9L, 77 pts — Segunda 2025-26 (promoted)",
+  "initials": "DLC",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-malaga",
+  "country": "Spain",
+  "league": "La Liga",
+  "name": "Malaga",
+  "city": "Málaga",
+  "lat": 36.7136,
+  "lon": -4.4256,
+  "record": "21W-10D-11L, 73 pts — Segunda 2025-26, won promotion play-off",
+  "initials": "M",
+  "color": "#5c6bc0",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Frente Bokeron",
+    "note": "Frente Bokeron are well-known for far-right and even fascist leaning politics, and a history of violence both in stadiums and outside.",
+    "sources": [
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html",
+     "https://www.mundoultras.com/grupos/frente-bokeron"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-castellon",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Castellon",
+  "city": "Castellón de la Plana",
+  "lat": 39.9864,
+  "lon": -0.0513,
+  "record": "20W-12D-10L, 72 pts — Segunda 2025-26",
+  "initials": "C",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-almeria",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Almeria",
+  "city": "Almería",
+  "lat": 36.8412,
+  "lon": -2.4028,
+  "record": "22W-8D-12L, 74 pts — Segunda 2025-26",
+  "initials": "A",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-ceuta",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Ceuta",
+  "city": "Ceuta",
+  "lat": 35.8894,
+  "lon": -5.3213,
+  "record": "17W-10D-15L, 61 pts — Segunda 2025-26",
+  "initials": "C",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-burgos",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Burgos",
+  "city": "Burgos",
+  "lat": 42.3411,
+  "lon": -3.6919,
+  "record": "20W-12D-10L, 72 pts — Segunda 2025-26",
+  "initials": "B",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-las-palmas",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Las Palmas",
+  "city": "Las Palmas de Gran Canaria",
+  "lat": 28.1,
+  "lon": -15.4515,
+  "record": "20W-13D-9L, 73 pts — Segunda 2025-26",
+  "initials": "LP",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-cordoba",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Cordoba",
+  "city": "Córdoba",
+  "lat": 37.8845,
+  "lon": -4.7796,
+  "record": "17W-10D-15L, 61 pts — Segunda 2025-26",
+  "initials": "C",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Brigadas Blanquiverdes",
+    "note": "Brigadas Blanquiverdes are a far-right leaning group and at least one member has been arrested trying to enter a rivals stadium with dangerous materials.",
+    "sources": [
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-sporting-gijon",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Sporting Gijon",
+  "city": "Gijón",
+  "lat": 43.5425,
+  "lon": -5.6614,
+  "record": "18W-7D-17L, 61 pts — Segunda 2025-26",
+  "initials": "SG",
+  "color": "#3fb8c9",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Ultra Boys",
+    "note": "Ultra Boys are a neo-fascist supporter group that, according to multiple outlets, has been involved in substantial violent activity.",
+    "sources": [
+     "https://www.mundoultras.com/grupos/ultra-boys",
+     "https://colgadosporelfutbol.com/los-mas-ultras-de-espana/",
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-eibar",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Eibar",
+  "city": "Eibar",
+  "lat": 43.181,
+  "lon": -2.472,
+  "record": "19W-10D-13L, 67 pts — Segunda 2025-26",
+  "initials": "E",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": true,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-cadiz",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Cadiz",
+  "city": "Cádiz",
+  "lat": 36.5352,
+  "lon": -6.2861,
+  "record": "11W-10D-21L, 43 pts — Segunda 2025-26",
+  "initials": "C",
+  "color": "#7cb342",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Brigada Amarilla",
+    "note": "Brigada Amarilla came out of the the Frente Cadiz group, and is decidedly leftist and anti-fascist, going so far as to have Che Guevara on their logo.",
+    "sources": [
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html",
+     "https://morningstaronline.co.uk/article/s/hermanos-de-la-izquierda-part-2",
+     "https://rebelultras.com/groups/brigadas-amarillas/"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-albacete",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Albacete",
+  "city": "Albacete",
+  "lat": 38.9943,
+  "lon": -1.8585,
+  "record": "16W-11D-15L, 59 pts — Segunda 2025-26",
+  "initials": "A",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-real-sociedad-b",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Real Sociedad B",
+  "city": "San Sebastián",
+  "lat": 43.2814,
+  "lon": -2.041,
+  "record": "12W-11D-19L, 47 pts — Segunda 2025-26",
+  "initials": "RSB",
+  "color": "#8a4fdb",
+  "political_category": "Left-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Peña Mujika",
+    "note": "Peña Mujika is associated with Basque independence and has some anti-fascist tendencies.",
+    "sources": [
+     "https://english.elpais.com/elpais/2014/12/12/inenglish/1418379310_978569.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-leganes",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Leganes",
+  "city": "Leganés",
+  "lat": 40.3287,
+  "lon": -3.7638,
+  "record": "11W-13D-18L, 46 pts — Segunda 2025-26",
+  "initials": "L",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-granada",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Granada",
+  "city": "Granada",
+  "lat": 37.1667,
+  "lon": -3.6136,
+  "record": "12W-12D-18L, 48 pts — Segunda 2025-26",
+  "initials": "G",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-andorra",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Andorra",
+  "city": "Andorra la Vella",
+  "lat": 42.5308,
+  "lon": 1.5615,
+  "record": "16W-10D-16L, 58 pts — Segunda 2025-26",
+  "initials": "A",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-real-valladolid",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Real Valladolid",
+  "city": "Valladolid",
+  "lat": 41.6398,
+  "lon": -4.7461,
+  "record": "12W-10D-20L, 46 pts — Segunda 2025-26",
+  "initials": "RV",
+  "color": "#c94f8a",
+  "political_category": "Split",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Ultras Violetas (far-right faction)",
+    "note": "Ultras Violetas are known to authorities for being right-wing and have a violent history with the left-wing Fossa Garrafoni.",
+    "sources": [
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html",
+     "https://es.besoccer.com/noticia/amp/las-30-aficiones-mas-fieles-y-ultras-del-futbol-espanol",
+     "https://www.lasexta.com/noticias/deportes/futbol/vergonzosa-batalla-campal-ultras-osasuna-valladolid-barras-hierro-calles-pamplona_20221030635e7c6947a3840001eb6333.html"
+    ]
+   },
+   {
+    "name": "Fossa Garrafoni (1996 far-left splinter faction)",
+    "note": "Fossa Garafoni has a long history of leaning towards the left and has had a violent history with the right-wing Ultras Violetas.",
+    "sources": [
+     "https://www.eldesmarque.com/futbol/20241001/radiografia-ultras-futbol-espanol_18_017028515.html",
+     "https://www.researchgate.net/publication/263760204_Political_ideology_and_activism_in_football_fan_culture_in_Spain_a_view_from_the_far_left"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-mallorca",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Mallorca",
+  "city": "Palma",
+  "lat": 39.5896,
+  "lon": 2.6301,
+  "record": "11W-9D-18L, 42 pts — Relegated from La Liga 2025-26",
+  "initials": "M",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-girona",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Girona",
+  "city": "Girona",
+  "lat": 41.9631,
+  "lon": 2.825,
+  "record": "9W-14D-15L, 41 pts — Relegated from La Liga 2025-26",
+  "initials": "G",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-real-oviedo",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Real Oviedo",
+  "city": "Oviedo",
+  "lat": 43.3714,
+  "lon": -5.856,
+  "record": "6W-11D-21L, 29 pts — Relegated from La Liga 2025-26",
+  "initials": "RO",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-tenerife",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Tenerife",
+  "city": "Santa Cruz de Tenerife",
+  "lat": 28.4682,
+  "lon": -16.2546,
+  "record": "21W-9D-8L, 72 pts — Champions Group 1, Primera Federación 2025-26 (promoted)",
+  "initials": "T",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "spain-la-liga-2-(segunda-division)-eldense",
+  "country": "Spain",
+  "league": "La Liga 2 (Segunda Division)",
+  "name": "Eldense",
+  "city": "Elda",
+  "lat": 38.4778,
+  "lon": -0.7913,
+  "record": "19W-7D-8L, 64 pts — Champions Group 2, Primera Federación 2025-26 (promoted)",
+  "initials": "E",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-ado-den-haag",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "ADO Den Haag",
+  "city": "The Hague",
+  "lat": 52.085,
+  "lon": 4.3162,
+  "record": "29W-2D-7L, 89 pts — Champions, Eerste Divisie 2025-26 (promoted)",
+  "initials": "ADH",
+  "color": "#e0263a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "North Side",
+    "note": "Supporters of North Side partook in a far-right wing protest against asylum seekers in the Hague. The protest became violent.",
+    "sources": [
+     "https://app.nos.nl/shorthand/van-protest-naar-veldslag/index.html",
+     "https://www.headliner.nl/item/ze-kwamen-met-prinsenvlaggen-en-wilden-vechten-wie-waren-de-relschoppers-in-den-haag-parool-279820"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eredivisie-ajax",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Ajax",
+  "city": "Amsterdam",
+  "lat": 52.3143,
+  "lon": 4.9419,
+  "record": "14W-14D-6L, 56 pts — Eredivisie 2025-26",
+  "initials": "A",
+  "color": "#8a4fdb",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "F-Side",
+    "note": "Classified as right-wing because of counterprotests to anti-Israel protest. Anti-Israel/pro-Palestine protestors tends towards the left, meaning a counter protest indicates right-wing beliefs",
+    "sources": [
+     "https://nos.nl/l/2543472",
+     "https://www.at5.nl/artikelen/229369/pro-palestijnse-demonstratie-rond-wedstrijd-ajax-tegen-israelische-club-f-side-dreigt-met-ingrijpen"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eredivisie-az-alkmaar",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "AZ Alkmaar",
+  "city": "Alkmaar",
+  "lat": 52.6132,
+  "lon": 4.7369,
+  "record": "14W-10D-10L, 52 pts — Eredivisie 2025-26",
+  "initials": "AA",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-excelsior-rotterdam",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Excelsior Rotterdam",
+  "city": "Rotterdam",
+  "lat": 51.8987,
+  "lon": 4.4867,
+  "record": "10W-8D-16L, 38 pts — Eredivisie 2025-26",
+  "initials": "ER",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-fc-groningen",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "FC Groningen",
+  "city": "Groningen",
+  "lat": 53.2154,
+  "lon": 6.5799,
+  "record": "14W-6D-14L, 48 pts — Eredivisie 2025-26",
+  "initials": "G",
+  "color": "#e07a2f",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Z-side",
+    "note": "Groningen Z-Side was founded the leader of Aktiefront Nationale Socialisten, which was a prominent neo-Nazi organization in the 1980s. More recently, there have been incidents with Groningen fans giving Nazi salutes during matches.",
+    "sources": [
+     "https://kafka.nl/extreemrechtse-voetbalhooligans/?lang=en",
+     "https://nltimes.nl/2016/02/15/football-fans-nazi-salute-leads-arrest-groningen-v-ajax"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eredivisie-fc-twente",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "FC Twente",
+  "city": "Enschede",
+  "lat": 52.2434,
+  "lon": 6.8756,
+  "record": "15W-13D-6L, 58 pts — Eredivisie 2025-26",
+  "initials": "T",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-fc-utrecht",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "FC Utrecht",
+  "city": "Utrecht",
+  "lat": 52.0888,
+  "lon": 5.1181,
+  "record": "15W-8D-11L, 53 pts — Eredivisie 2025-26",
+  "initials": "U",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-feyenoord",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Feyenoord",
+  "city": "Rotterdam",
+  "lat": 51.8935,
+  "lon": 4.5232,
+  "record": "19W-8D-7L, 65 pts — Eredivisie 2025-26",
+  "initials": "F",
+  "color": "#5c6bc0",
+  "political_category": "Right-wing",
+  "political_strong_evidence": true,
+  "political_groups": [
+   {
+    "name": "Vak S / S.C.F.",
+    "note": "BOOS and NRC report that an \"investigation shows that the club facilitates hooligans involved in antisemitic and homophobic remarks and death threats.\" The club was fined after members of supporter groups engaged in racist chants.",
+    "sources": [
+     "https://nos.nl/l/2546295",
+     "https://www.si.com/soccer/2014/08/20/uefa-punishes-feyenoord-racism"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eredivisie-fortuna-sittard",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Fortuna Sittard",
+  "city": "Sittard",
+  "lat": 50.9667,
+  "lon": 5.8608,
+  "record": "11W-6D-17L, 39 pts — Eredivisie 2025-26",
+  "initials": "FS",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-go-ahead-eagles",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Go Ahead Eagles",
+  "city": "Deventer",
+  "lat": 52.2451,
+  "lon": 6.1683,
+  "record": "8W-14D-12L, 38 pts — Eredivisie 2025-26",
+  "initials": "GAE",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-nec-nijmegen",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "NEC Nijmegen",
+  "city": "Nijmegen",
+  "lat": 51.85,
+  "lon": 5.8628,
+  "record": "16W-11D-7L, 59 pts — Eredivisie 2025-26",
+  "initials": "NN",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-pec-zwolle",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "PEC Zwolle",
+  "city": "Zwolle",
+  "lat": 52.5219,
+  "lon": 6.105,
+  "record": "9W-10D-15L, 37 pts — Eredivisie 2025-26",
+  "initials": "PZ",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-psv-eindhoven",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "PSV Eindhoven",
+  "city": "Eindhoven",
+  "lat": 51.4416,
+  "lon": 5.4677,
+  "record": "27W-3D-4L, 84 pts — Champions, Eredivisie 2025-26",
+  "initials": "PE",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-sc-cambuur",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "SC Cambuur",
+  "city": "Leeuwarden",
+  "lat": 53.1958,
+  "lon": 5.818,
+  "record": "23W-9D-6L, 78 pts — Eerste Divisie 2025-26 (promoted)",
+  "initials": "C",
+  "color": "#2f6fce",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "M.I.-Side (hooligan firm)",
+    "note": "Supporters of SC Cambuur partook in a far-right wing protest against asylum seekers in the Hague. The protest became violent.",
+    "sources": [
+     "https://www.dutchnews.nl/2025/09/riots-in-the-hague-blended-far-right-with-football-hooliganism/",
+     "https://app.nos.nl/shorthand/van-protest-naar-veldslag/index.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eredivisie-sc-heerenveen",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "sc Heerenveen",
+  "city": "Heerenveen",
+  "lat": 52.9583,
+  "lon": 5.925,
+  "record": "14W-9D-11L, 51 pts — Eredivisie 2025-26",
+  "initials": "H",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-sparta-rotterdam",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Sparta Rotterdam",
+  "city": "Rotterdam",
+  "lat": 51.908,
+  "lon": 4.4581,
+  "record": "12W-7D-15L, 43 pts — Eredivisie 2025-26",
+  "initials": "SR",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-telstar",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Telstar",
+  "city": "Velsen-Zuid",
+  "lat": 52.46,
+  "lon": 4.6386,
+  "record": "9W-10D-15L, 37 pts — Eredivisie 2025-26",
+  "initials": "T",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eredivisie-willem-ii",
+  "country": "Netherlands",
+  "league": "Eredivisie",
+  "name": "Willem II",
+  "city": "Tilburg",
+  "lat": 51.5643,
+  "lon": 5.0736,
+  "record": "20W-8D-10L, 68 pts — Eerste Divisie 2025-26, won promotion play-offs",
+  "initials": "WI",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-de-graafschap",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "De Graafschap",
+  "city": "Doetinchem",
+  "lat": 51.966,
+  "lon": 6.2942,
+  "record": "18W-9D-11L, 63 pts — Eerste Divisie 2025-26",
+  "initials": "G",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-almere-city",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Almere City",
+  "city": "Almere",
+  "lat": 52.36,
+  "lon": 5.2372,
+  "record": "18W-4D-16L, 58 pts — Eerste Divisie 2025-26",
+  "initials": "AC",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-rkc-waalwijk",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "RKC Waalwijk",
+  "city": "Waalwijk",
+  "lat": 51.6853,
+  "lon": 5.0736,
+  "record": "16W-10D-12L, 58 pts — Eerste Divisie 2025-26",
+  "initials": "RW",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-jong-psv",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Jong PSV",
+  "city": "Eindhoven",
+  "lat": 51.4292,
+  "lon": 5.475,
+  "record": "17W-5D-16L, 56 pts — Reserve side, Eerste Divisie 2025-26",
+  "initials": "JP",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-roda-jc-kerkrade",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Roda JC Kerkrade",
+  "city": "Kerkrade",
+  "lat": 50.8656,
+  "lon": 6.0672,
+  "record": "14W-13D-11L, 55 pts — Eerste Divisie 2025-26",
+  "initials": "RJK",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-den-bosch",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Den Bosch",
+  "city": "'s-Hertogenbosch",
+  "lat": 51.695,
+  "lon": 5.3212,
+  "record": "14W-9D-15L, 51 pts — Eerste Divisie 2025-26",
+  "initials": "DB",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-dordrecht",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Dordrecht",
+  "city": "Dordrecht",
+  "lat": 51.8046,
+  "lon": 4.6737,
+  "record": "12W-11D-15L, 47 pts — Eerste Divisie 2025-26",
+  "initials": "D",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-eindhoven",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Eindhoven",
+  "city": "Eindhoven",
+  "lat": 51.4488,
+  "lon": 5.4526,
+  "record": "14W-5D-19L, 47 pts — Eerste Divisie 2025-26",
+  "initials": "E",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-jong-fc-utrecht",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Jong FC Utrecht",
+  "city": "Utrecht",
+  "lat": 52.085,
+  "lon": 5.114,
+  "record": "12W-10D-16L, 46 pts — Reserve side, Eerste Divisie 2025-26",
+  "initials": "JU",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-vvv-venlo",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "VVV-Venlo",
+  "city": "Venlo",
+  "lat": 51.3812,
+  "lon": 6.1615,
+  "record": "13W-6D-19L, 45 pts — Eerste Divisie 2025-26",
+  "initials": "VV",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-emmen",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Emmen",
+  "city": "Emmen",
+  "lat": 52.785,
+  "lon": 6.9053,
+  "record": "12W-9D-17L, 45 pts — Eerste Divisie 2025-26",
+  "initials": "E",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-vitesse",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Vitesse",
+  "city": "Arnhem",
+  "lat": 51.9683,
+  "lon": 5.8994,
+  "record": "15W-11D-12L, 44 pts — Eerste Divisie 2025-26",
+  "initials": "V",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-top-oss",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "TOP Oss",
+  "city": "Oss",
+  "lat": 51.7649,
+  "lon": 5.5185,
+  "record": "11W-11D-16L, 44 pts — Eerste Divisie 2025-26",
+  "initials": "TO",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-jong-az",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Jong AZ",
+  "city": "Alkmaar",
+  "lat": 52.6062,
+  "lon": 4.7307,
+  "record": "12W-4D-22L, 40 pts — Reserve side, Eerste Divisie 2025-26",
+  "initials": "JA",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-helmond-sport",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Helmond Sport",
+  "city": "Helmond",
+  "lat": 51.4667,
+  "lon": 5.6667,
+  "record": "10W-9D-19L, 39 pts — Eerste Divisie 2025-26",
+  "initials": "HS",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-mvv-maastricht",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "MVV Maastricht",
+  "city": "Maastricht",
+  "lat": 50.8394,
+  "lon": 5.6822,
+  "record": "9W-11D-18L, 38 pts — Eerste Divisie 2025-26",
+  "initials": "MM",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-jong-ajax",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Jong Ajax",
+  "city": "Amsterdam",
+  "lat": 52.3263,
+  "lon": 4.9539,
+  "record": "9W-8D-21L, 35 pts — Reserve side, Eerste Divisie 2025-26",
+  "initials": "JA",
+  "color": "#d8b451",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "F-Side",
+    "note": "Classified as right-wing because of counterprotests to anti-Israel protest. Anti-Israel/pro-Palestine protestors tends towards the left, meaning a counter protest indicates right-wing beliefs",
+    "sources": [
+     "https://nos.nl/l/2543472",
+     "https://www.at5.nl/artikelen/229369/pro-palestijnse-demonstratie-rond-wedstrijd-ajax-tegen-israelische-club-f-side-dreigt-met-ingrijpen"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eerste-divisie-fc-volendam",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "FC Volendam",
+  "city": "Volendam",
+  "lat": 52.497,
+  "lon": 5.07,
+  "record": "8W-8D-18L, 32 pts — Relegated from Eredivisie 2025-26",
+  "initials": "V",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "netherlands-eerste-divisie-nac-breda",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "NAC Breda",
+  "city": "Breda",
+  "lat": 51.5875,
+  "lon": 4.7784,
+  "record": "6W-11D-17L, 29 pts — Relegated from Eredivisie 2025-26",
+  "initials": "NB",
+  "color": "#8a4fdb",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "B-Side / F7 Ultras / Vak-G",
+    "note": "Supporters of NAC Breda partook in a far-right wing protest against asylum seekers in the Hague. The protest became violent.",
+    "sources": [
+     "https://www.dutchnews.nl/2025/09/riots-in-the-hague-blended-far-right-with-football-hooliganism/",
+     "https://app.nos.nl/shorthand/van-protest-naar-veldslag/index.html"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "netherlands-eerste-divisie-heracles-almelo",
+  "country": "Netherlands",
+  "league": "Eerste Divisie",
+  "name": "Heracles Almelo",
+  "city": "Almelo",
+  "lat": 52.3568,
+  "lon": 6.6597,
+  "record": "5W-4D-25L, 19 pts — Relegated from Eredivisie 2025-26",
+  "initials": "HA",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-fc-porto",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "FC Porto",
+  "city": "Porto",
+  "lat": 41.1617,
+  "lon": -8.5834,
+  "record": "28W-4D-2L, 88 pts — Champions, Primeira Liga 2025-26",
+  "initials": "P",
+  "color": "#3fb8c9",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Super DragÃµes (stronger/more current evidence found, see note)",
+    "note": "There is a strong connection between leadership of the Super Dragoes and neo-Nazi leadership. The government of Portugal has brought legal charges against some leaders who are tied to neo-Nazis.",
+    "sources": [
+     "https://onefootball.com/en/news/super-dragoes-and-juventude-leonina-ultras-targeted-in-police-operation-42265234",
+     "https://www.publico.pt/2024/02/06/desporto/noticia/operacao-pretoriano-mp-pede-prisao-preventiva-madureira-polaco-2079463",
+     "https://www.rtp.pt/noticias/fc-porto/ministerio-publico-pede-prisao-preventiva-para-madureira-e-polaco_d1548897"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-sporting-cp",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Sporting CP",
+  "city": "Lisbon",
+  "lat": 38.7607,
+  "lon": -9.1607,
+  "record": "25W-7D-2L, 82 pts — Primeira Liga 2025-26",
+  "initials": "SC",
+  "color": "#e0263a",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Juventude Leonina / Grupo 1143 (revived 2023, dismantled Jan 2026 â€” recency correction, see note)",
+    "note": "Juventude Leonina is known to authorities for far-right and neo-Nazi ideology. An off-shoot group, 1143, was dismantled by Portuguese authorities in 2026.",
+    "sources": [
+     "https://www.rtp.pt/noticias/pais/ministerio-publico-diz-que-grupo-neonazi-1143-estava-a-preparar-acoes-provocatorias-com-ofensas-a-maome_n1712197",
+     "https://www.publico.pt/2026/01/24/sociedade/noticia/prisao-preventiva-cinco-37-alegados-membros-grupo-neonazi-1143-2162355",
+     "https://www.record.pt/fora-de-campo/detalhe/34-arguidos-e-varios-detidos-em-megaoperacao-de-combate-ao-grupo-extremista-1143"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-sl-benfica",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "SL Benfica",
+  "city": "Lisbon",
+  "lat": 38.7527,
+  "lon": -9.1846,
+  "record": "23W-11D-0L, 80 pts — Primeira Liga 2025-26",
+  "initials": "SB",
+  "color": "#1f9e6b",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "No Name Boys",
+    "note": "Supporter clubs in Portugal have been heavily linked to far-right wing activity in recent years. Benfica supporters have also engaged in racist behavior, and even Benfica players have been sanctioned for racist comments during  matches.",
+    "sources": [
+     "https://www.espn.com/soccer/story/_/id/48056632/benfica-suspend-fans-racist-behaviour-real-madrid-vini-jr",
+     "https://www.aljazeera.com/sports/2026/2/26/real-madrid-ban-club-member-who-did-nazi-salute-during-benfica-match",
+     "https://www.esquerda.net/artigo/no-name-boys-37-membros-da-claque-acusados-de-crimes-violentos/71949"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-sc-braga",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "SC Braga",
+  "city": "Braga",
+  "lat": 41.5661,
+  "lon": -8.4001,
+  "record": "16W-11D-7L, 59 pts — Primeira Liga 2025-26",
+  "initials": "B",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-fc-famalicao",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "FC Famalicao",
+  "city": "Vila Nova de Famalicão",
+  "lat": 41.4136,
+  "lon": -8.4986,
+  "record": "15W-11D-8L, 56 pts — Primeira Liga 2025-26",
+  "initials": "F",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-gil-vicente-fc",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Gil Vicente FC",
+  "city": "Barcelos",
+  "lat": 41.5388,
+  "lon": -8.6151,
+  "record": "13W-11D-10L, 50 pts — Primeira Liga 2025-26",
+  "initials": "GV",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-moreirense-fc",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Moreirense FC",
+  "city": "Moreira de Cónegos",
+  "lat": 41.3717,
+  "lon": -8.3535,
+  "record": "12W-7D-15L, 43 pts — Primeira Liga 2025-26",
+  "initials": "M",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-fc-arouca",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "FC Arouca",
+  "city": "Arouca",
+  "lat": 40.9295,
+  "lon": -8.2431,
+  "record": "12W-6D-16L, 42 pts — Primeira Liga 2025-26",
+  "initials": "A",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-vitoria-sc",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Vitoria SC",
+  "city": "Guimarães",
+  "lat": 41.4471,
+  "lon": -8.2926,
+  "record": "12W-6D-16L, 42 pts — Primeira Liga 2025-26",
+  "initials": "V",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-gd-estoril-praia",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "GD Estoril Praia",
+  "city": "Estoril",
+  "lat": 38.7057,
+  "lon": -9.3969,
+  "record": "10W-9D-15L, 39 pts — Primeira Liga 2025-26",
+  "initials": "EP",
+  "color": "#8a4fdb",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-fc-alverca",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "FC Alverca",
+  "city": "Alverca do Ribatejo",
+  "lat": 38.8917,
+  "lon": -8.9836,
+  "record": "10W-9D-15L, 39 pts — Primeira Liga 2025-26",
+  "initials": "A",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-rio-ave-fc",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Rio Ave FC",
+  "city": "Vila do Conde",
+  "lat": 41.3467,
+  "lon": -8.7415,
+  "record": "8W-12D-14L, 36 pts — Primeira Liga 2025-26",
+  "initials": "RA",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-cd-santa-clara",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "CD Santa Clara",
+  "city": "Ponta Delgada",
+  "lat": 37.7412,
+  "lon": -25.6756,
+  "record": "9W-9D-16L, 36 pts — Primeira Liga 2025-26",
+  "initials": "SC",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-cd-nacional",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "CD Nacional",
+  "city": "Funchal",
+  "lat": 32.6669,
+  "lon": -16.9241,
+  "record": "9W-7D-18L, 34 pts — Primeira Liga 2025-26",
+  "initials": "N",
+  "color": "#c94f8a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-cf-estrela-da-amadora",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "CF Estrela da Amadora",
+  "city": "Amadora",
+  "lat": 38.7538,
+  "lon": -9.2295,
+  "record": "6W-12D-16L, 30 pts — Primeira Liga 2025-26",
+  "initials": "EDA",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-casa-pia-ac",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Casa Pia AC",
+  "city": "Lisbon",
+  "lat": 39.0333,
+  "lon": -8.9333,
+  "record": "6W-12D-16L, 30 pts — Primeira Liga 2025-26",
+  "initials": "CP",
+  "color": "#e0263a",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-cs-maritimo",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "CS Maritimo",
+  "city": "Funchal",
+  "lat": 32.6472,
+  "lon": -16.9147,
+  "record": "20W-6D-8L, 66 pts — Champions, Liga Portugal 2 2025-26 (promoted)",
+  "initials": "M",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-primeira-liga-(liga-portugal)-academico-de-viseu",
+  "country": "Portugal",
+  "league": "Primeira Liga (Liga Portugal)",
+  "name": "Academico de Viseu",
+  "city": "Viseu",
+  "lat": 40.66,
+  "lon": -7.9096,
+  "record": "17W-8D-9L, 59 pts — Liga Portugal 2 2025-26 (promoted)",
+  "initials": "AV",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-benfica-b",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Benfica B",
+  "city": "Seixal",
+  "lat": 38.6389,
+  "lon": -9.0994,
+  "record": "11W-11D-12L, 44 pts — Reserve side, Liga Portugal 2 2025-26",
+  "initials": "BB",
+  "color": "#1f9e6b",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "No Name Boys",
+    "note": "Supporter clubs in Portugal have been heavily linked to far-right wing activity in recent years. Benfica supporters have also engaged in racist behavior, and even Benfica players have been sanctioned for racist comments during  matches.",
+    "sources": [
+     "https://www.espn.com/soccer/story/_/id/48056632/benfica-suspend-fans-racist-behaviour-real-madrid-vini-jr",
+     "https://www.aljazeera.com/sports/2026/2/26/real-madrid-ban-club-member-who-did-nazi-salute-during-benfica-match",
+     "https://www.esquerda.net/artigo/no-name-boys-37-membros-da-claque-acusados-de-crimes-violentos/71949"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portugal-liga-portugal-2-gd-chaves",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "GD Chaves",
+  "city": "Chaves",
+  "lat": 41.7405,
+  "lon": -7.4694,
+  "record": "13W-6D-15L, 45 pts — Liga Portugal 2 2025-26",
+  "initials": "C",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-sc-farense",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "SC Farense",
+  "city": "Faro",
+  "lat": 37.0193,
+  "lon": -7.9146,
+  "record": "10W-10D-14L, 40 pts — Liga Portugal 2 2025-26 (pending relegation play-off vs Liga 3 3rd-place team)",
+  "initials": "F",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-cd-feirense",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "CD Feirense",
+  "city": "Santa Maria da Feira",
+  "lat": 40.9256,
+  "lon": -8.5453,
+  "record": "12W-10D-12L, 46 pts — Liga Portugal 2 2025-26",
+  "initials": "F",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-fc-felgueiras-1932",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "FC Felgueiras 1932",
+  "city": "Felgueiras",
+  "lat": 41.3667,
+  "lon": -8.2,
+  "record": "11W-11D-12L, 44 pts — Liga Portugal 2 2025-26",
+  "initials": "F1",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-leixoes-sc",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Leixoes SC",
+  "city": "Matosinhos",
+  "lat": 41.1858,
+  "lon": -8.6953,
+  "record": "15W-5D-14L, 50 pts — Liga Portugal 2 2025-26",
+  "initials": "L",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-lusitania-fc-(lourosa)",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Lusitania FC (Lourosa)",
+  "city": "Lourosa",
+  "lat": 40.9931,
+  "lon": -8.5292,
+  "record": "11W-10D-13L, 43 pts — Liga Portugal 2 2025-26",
+  "initials": "L",
+  "color": "#2f6fce",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-fc-penafiel",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "FC Penafiel",
+  "city": "Penafiel",
+  "lat": 41.2075,
+  "lon": -8.2836,
+  "record": "11W-8D-15L, 41 pts — Liga Portugal 2 2025-26",
+  "initials": "P",
+  "color": "#1f9e6b",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-fc-porto-b",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "FC Porto B",
+  "city": "Vila Nova de Gaia",
+  "lat": 41.12,
+  "lon": -8.5972,
+  "record": "15W-6D-13L, 51 pts — Reserve side, Liga Portugal 2 2025-26",
+  "initials": "PB",
+  "color": "#3fb8c9",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Super DragÃµes (stronger/more current evidence found, see note)",
+    "note": "There is a strong connection between leadership of the Super Dragoes and neo-Nazi leadership. The government of Portugal has brought legal charges against some leaders who are tied to neo-Nazis.",
+    "sources": [
+     "https://onefootball.com/en/news/super-dragoes-and-juventude-leonina-ultras-targeted-in-police-operation-42265234",
+     "https://www.publico.pt/2024/02/06/desporto/noticia/operacao-pretoriano-mp-pede-prisao-preventiva-madureira-polaco-2079463",
+     "https://www.rtp.pt/noticias/fc-porto/ministerio-publico-pede-prisao-preventiva-para-madureira-e-polaco_d1548897"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portugal-liga-portugal-2-sporting-cp-b",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Sporting CP B",
+  "city": "Alcochete",
+  "lat": 38.7539,
+  "lon": -8.9622,
+  "record": "13W-3D-18L, 42 pts — Reserve side, Liga Portugal 2 2025-26",
+  "initials": "SCB",
+  "color": "#5c6bc0",
+  "political_category": "Right-wing",
+  "political_strong_evidence": false,
+  "political_groups": [
+   {
+    "name": "Juventude Leonina / Grupo 1143 (revived 2023, dismantled Jan 2026 â€” recency correction, see note)",
+    "note": "Juventude Leonina is known to authorities for far-right and neo-Nazi ideology. An off-shoot group, 1143, was dismantled by Portuguese authorities in 2026.",
+    "sources": [
+     "https://www.rtp.pt/noticias/pais/ministerio-publico-diz-que-grupo-neonazi-1143-estava-a-preparar-acoes-provocatorias-com-ofensas-a-maome_n1712197",
+     "https://www.publico.pt/2026/01/24/sociedade/noticia/prisao-preventiva-cinco-37-alegados-membros-grupo-neonazi-1143-2162355",
+     "https://www.record.pt/fora-de-campo/detalhe/34-arguidos-e-varios-detidos-em-megaoperacao-de-combate-ao-grupo-extremista-1143"
+    ]
+   }
+  ]
+ },
+ {
+  "id": "portugal-liga-portugal-2-torreense",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Torreense",
+  "city": "Torres Vedras",
+  "lat": 39.0914,
+  "lon": -9.2589,
+  "record": "18W-5D-11L, 59 pts — Liga Portugal 2 2025-26",
+  "initials": "T",
+  "color": "#d8b451",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-cf-uniao-de-leiria",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "CF Uniao de Leiria",
+  "city": "Leiria",
+  "lat": 39.7436,
+  "lon": -8.8071,
+  "record": "13W-11D-10L, 50 pts — Liga Portugal 2 2025-26",
+  "initials": "UL",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-fc-vizela",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "FC Vizela",
+  "city": "Vizela",
+  "lat": 41.3833,
+  "lon": -8.3,
+  "record": "14W-9D-11L, 51 pts — Liga Portugal 2 2025-26",
+  "initials": "V",
+  "color": "#7cb342",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-cd-tondela",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "CD Tondela",
+  "city": "Tondela",
+  "lat": 40.5167,
+  "lon": -8.0833,
+  "record": "6W-10D-18L, 28 pts — Relegated from Primeira Liga 2025-26",
+  "initials": "T",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-avs-futebol-sad",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "AVS Futebol SAD",
+  "city": "Vila das Aves",
+  "lat": 41.3389,
+  "lon": -8.3697,
+  "record": "3W-12D-19L, 21 pts — Relegated from Primeira Liga 2025-26",
+  "initials": "AFS",
+  "color": "#5c6bc0",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-academica-de-coimbra",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Academica de Coimbra",
+  "city": "Coimbra",
+  "lat": 40.2033,
+  "lon": -8.4103,
+  "record": "8W-4D-2L, 28 pts (14 games, mid-season) — Liga 3 2025-26 (promoted)",
+  "initials": "AC",
+  "color": "#3fb8c9",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ },
+ {
+  "id": "portugal-liga-portugal-2-amarante-fc",
+  "country": "Portugal",
+  "league": "Liga Portugal 2",
+  "name": "Amarante FC",
+  "city": "Amarante",
+  "lat": 41.2733,
+  "lon": -8.0783,
+  "record": "9W-4D-1L, 31 pts (14 games, mid-season) — Champions, Liga 3 2025-26 (promoted)",
+  "initials": "A",
+  "color": "#e07a2f",
+  "political_category": "No known political position",
+  "political_strong_evidence": false,
+  "political_groups": []
+ }
+]
